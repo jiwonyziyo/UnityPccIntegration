@@ -11,7 +11,6 @@ public class PccDecoder : MonoBehaviour
     {
         string binFolder = Path.Combine(Application.dataPath, "Data", "binData");
         
-        // Ensure the input directory exists
         if (!Directory.Exists(binFolder))
         {
             Directory.CreateDirectory(binFolder);
@@ -28,14 +27,12 @@ public class PccDecoder : MonoBehaviour
         
             string outputFolder = Path.Combine(Application.dataPath, "Data", "outPlyData");
             
-            // Safety: Ensure output directory exists
             if (!Directory.Exists(outputFolder))
             {
                 Directory.CreateDirectory(outputFolder);
             }
 
-            // Path with %04d for the decoder's naming convention
-            string outputPlyPath = Path.Combine(outputFolder, fileNameOnly + "_%04d.ply");
+            string outputPlyPath = Path.Combine(outputFolder, fileNameOnly + ".ply");
 
             ExecuteDecoding(inputBinPath, outputPlyPath);
         }

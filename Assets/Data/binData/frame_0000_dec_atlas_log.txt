@@ -1,0 +1,2 @@
+AtlasFrameIndex = 0
+AtlasFrameOrderCntVal = 0,  AtlasFrameWidthMax =  1024, AtlasFrameHeightMax = 640, AtlasID = 0, ASPSFrameSize = 655360, VPSMapCount = 1, AttributeCount = 4, AttributeDimension = 1, NumTilesAtlasFrame = 1, AtlasTotalNumProjPatches = 0, AtlasTotalNumRawPatches = 89, AtlasTotalNumEomPatches = 0,  Atlas MD5 = 4099fceaf9d64885c35dc5776897a2ce, Atlas B2P MD5 = f3c1e3aad160af267c1c15a5dd71c7f6

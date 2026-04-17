@@ -1,0 +1,1977 @@
+[     0-0] PCCBitstreamXXcoder: SampleStream Vpcc Unit start 
+[     0-0] sampleStreamV3CHeader 
+[     1-0] UnitSizePrecisionBytesMinus1 3 <=> bytesToRead 32
+[     1-0] sampleStreamV3CUnit 
+[    51-0] V3CUnitType: 0 V3CUnitSize: 46
+[    51-0] V3C Unit Size(0th/1)  = 46 
+[    51-0] sampleStreamV3CUnit 
+[  1563-0] V3CUnitType: 1 V3CUnitSize: 1508
+[  1563-0] V3C Unit Size(1th/2)  = 1508 
+[  1563-0] sampleStreamV3CUnit 
+[552568-0] V3CUnitType: 3 V3CUnitSize: 551001
+[552568-0] V3C Unit Size(2th/3)  = 551001 
+[552568-0] sampleStreamV3CUnit 
+[672081-0] V3CUnitType: 4 V3CUnitSize: 119509
+[672081-0] V3C Unit Size(3th/4)  = 119509 
+[672081-0] sampleStreamV3CUnit 
+[944082-0] V3CUnitType: 4 V3CUnitSize: 271997
+[944082-0] V3C Unit Size(4th/5)  = 271997 
+[944082-0] sampleStreamV3CUnit 
+[1108618-0] V3CUnitType: 4 V3CUnitSize: 164532
+[1108618-0] V3C Unit Size(5th/6)  = 164532 
+[1108618-0] sampleStreamV3CUnit 
+[1273436-0] V3CUnitType: 4 V3CUnitSize: 164814
+[1273436-0] V3C Unit Size(6th/7)  = 164814 
+[1273436-0] sampleStreamV3CUnit 
+[1453774-0] V3CUnitType: 4 V3CUnitSize: 180334
+[1453774-0] V3C Unit Size(7th/8)  = 180334 
+[1453774-0] sampleStreamV3CUnit 
+[1624169-0] V3CUnitType: 4 V3CUnitSize: 170391
+[1624169-0] V3C Unit Size(8th/9)  = 170391 
+[1624169-0] sampleStreamV3CUnit 
+[1804414-0] V3CUnitType: 4 V3CUnitSize: 180241
+[1804414-0] V3C Unit Size(9th/10)  = 180241 
+[1804414-0] sampleStreamV3CUnit 
+[1807651-0] V3CUnitType: 4 V3CUnitSize: 3233
+[1807651-0] V3C Unit Size(10th/11)  = 3233 
+[1807651-0] sampleStreamV3CUnit 
+[1811490-0] V3CUnitType: 4 V3CUnitSize: 3835
+[1811490-0] V3C Unit Size(11th/12)  = 3835 
+[1811490-0] sampleStreamV3CUnit 
+[1819039-0] V3CUnitType: 4 V3CUnitSize: 7545
+[1819039-0] V3C Unit Size(12th/13)  = 7545 
+[1819039-0] sampleStreamV3CUnit 
+[1826905-0] V3CUnitType: 4 V3CUnitSize: 7862
+[1826905-0] V3C Unit Size(13th/14)  = 7862 
+[1826905-0] sampleStreamV3CUnit 
+[1835295-0] V3CUnitType: 4 V3CUnitSize: 8386
+[1835295-0] V3C Unit Size(14th/15)  = 8386 
+[1835295-0] sampleStreamV3CUnit 
+[1896348-0] V3CUnitType: 4 V3CUnitSize: 61049
+[1896348-0] V3C Unit Size(15th/16)  = 61049 
+[1896348-0] sampleStreamV3CUnit 
+[1958906-0] V3CUnitType: 4 V3CUnitSize: 62554
+[1958906-0] V3C Unit Size(16th/17)  = 62554 
+[1958906-0] sampleStreamV3CUnit 
+[2035930-0] V3CUnitType: 4 V3CUnitSize: 77020
+[2035930-0] V3C Unit Size(17th/18)  = 77020 
+[2035930-0] sampleStreamV3CUnit 
+[2107544-0] V3CUnitType: 4 V3CUnitSize: 71610
+[2107544-0] V3C Unit Size(18th/19)  = 71610 
+[2107544-0] sampleStreamV3CUnit 
+[2186175-0] V3CUnitType: 4 V3CUnitSize: 78627
+[2186175-0] V3C Unit Size(19th/20)  = 78627 
+[2186175-0] sampleStreamV3CUnit 
+[2502749-0] V3CUnitType: 4 V3CUnitSize: 316570
+[2502749-0] V3C Unit Size(20th/21)  = 316570 
+[2502749-0] sampleStreamV3CUnit 
+[2939041-0] V3CUnitType: 4 V3CUnitSize: 436288
+[2939041-0] V3C Unit Size(21th/22)  = 436288 
+[2939041-0] sampleStreamV3CUnit 
+[3099673-0] V3CUnitType: 4 V3CUnitSize: 160628
+[3099673-0] V3C Unit Size(22th/23)  = 160628 
+[3099673-0] PCCBitstreamXXcoder: SampleStream Vpcc Unit start done 
+[     0-0] PCCBitstream::(V3C_VPS)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 0      u(5) 
+[     4-0]reserved27bits .................................... = 0      u(27) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 0 
+[     4-0] v3cParameterSet 
+[     4-0] profileTierLevel 
+[     4-1]TierFlag .......................................... = 0      u(1) 
+[     5-0]ProfileCodecGroupIdc .............................. = 2      u(7) 
+[     6-0]ProfileToolsetIdc ................................. = 2      u(8) 
+[     7-0]ProfileReconstructionIdc .......................... = 3      u(8) 
+[     9-0]ptl_reserved_zero_16bits  ......................... = 0      u(16) 
+[     9-4]ptl_max_decodes_idc  .............................. = 12     u(4) 
+[    11-0]ptl_reserved_0xfff_12bits  ........................ = 4095   u(12) 
+[    12-0]LevelIdc .......................................... = 180    u(8) 
+[    12-6]NumSubProfiles .................................... = 0      u(6) 
+[    12-7]ExtendedSubProfileFlag ............................ = 0      u(1) 
+[    15-2] Atlas = 0 
+[    21-4]  MapCountMinus1 = 0 
+[    22-0]  AbsoluteCoding L0 = 1 
+[    22-0] geometryInformation 
+[    24-3] attributeInformation 
+[    25-2] AttributeCount = 4  
+[    45-5] byteAlignment 
+[    46-0] v3cUnit: V3CUnitType = 0(V3C_VPS) 
+[    46-0] v3cUnit: size [0 ~ 46] 
+[    46-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 1      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     4-0]reserved17bits .................................... = 0      u(17) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 1 
+[     4-0] atlasSubStream 
+[     4-0] sampleStreamNalHeader 
+[     5-0] UnitSizePrecisionBytesMinus1 = 1 
+[     5-0] sampleStreamNalUnit 
+[     5-0] UnitSizePrecisionBytesMinus1 = 1 
+[     0-0] nalUnitHeader 
+[     2-0]  NalUnitSize      = 14 
+[     2-0]  NalUnitType      = 36 
+[     2-0]  LayerId          = 0 
+[     2-0]  TemporalyIdPlus1 = 1 
+[     2-0] atlasSequenceParameterSetRbsp 
+[     9-5] ASPS: NumRefListStruct = 1 
+[     9-5] refListStruct 
+[     9-6] NumRefEntries = 0  
+[     9-6] refListStruct done 
+[    10-6] Log2PatchPackingBlockSize = 0 
+[    11-7] getAuxiliaryVideoEnabledFlag = 0 
+[    13-2] aspsVpccExtension 
+[    13-3] rbspTrailingBits 
+[    21-0] nalu[36]:NAL_ASPS, nalSizePrecision:2, naluSize:14, sizeBitstream written: 21
+[    21-0] sampleStreamNalUnit 
+[    21-0] UnitSizePrecisionBytesMinus1 = 1 
+[     0-0] nalUnitHeader 
+[     2-0]  NalUnitSize      = 4 
+[     2-0]  NalUnitType      = 37 
+[     2-0]  LayerId          = 0 
+[     2-0]  TemporalyIdPlus1 = 1 
+[     2-0] atlasFrameParameterSetRbsp 
+[     2-2] atlasFrameTileInformationRbsp 
+[     2-3] afti: singleTile :1
+[     2-3] afti: uniformPartition :1
+[     2-3] afti: numTilesInAtlasFrameMinus1 :0
+[     2-3] asps: getAuxiliaryVideoEnabledFlag :0
+[     3-2] rbspTrailingBits 
+[    27-0] nalu[37]:NAL_AFPS, nalSizePrecision:2, naluSize:4, sizeBitstream written: 27
+[    27-0] sampleStreamNalUnit 
+[    27-0] UnitSizePrecisionBytesMinus1 = 1 
+[     0-0] nalUnitHeader 
+[     2-0]  NalUnitSize      = 488 
+[     2-0]  NalUnitType      = 47 
+[     2-0]  LayerId          = 0 
+[     2-0]  TemporalyIdPlus1 = 1 
+[     2-0] atlasAdaptationParameterSetRbsp 
+[     3-2] aapsVpccGsExtension 
+[     3-3] gsDequantization(){
+[     3-6]  value ........................................... = 1      ue(v) 
+[     7-6]  valueFlt ........................................ = -4.474515 f(32) 
+[    11-6]  valueFlt ........................................ = 251.525482 f(32) 
+[    15-6]  valueFlt ........................................ = -0.098041 f(32) 
+[    19-6]  valueFlt ........................................ = 255.901962 f(32) 
+[    23-6]  valueFlt ........................................ = -12.084300 f(32) 
+[    27-6]  valueFlt ........................................ = 243.915695 f(32) 
+[    27-7]  value ........................................... = 1      u(1) 
+[    31-7]  valueFlt ........................................ = -1.000000 f(32) 
+[    35-7]  valueFlt ........................................ = 1.000000 f(32) 
+[    39-7]  valueFlt ........................................ = -1.000000 f(32) 
+[    43-7]  valueFlt ........................................ = 1.000000 f(32) 
+[    47-7]  valueFlt ........................................ = -1.000000 f(32) 
+[    51-7]  valueFlt ........................................ = 1.000000 f(32) 
+[    55-7]  valueFlt ........................................ = -1.000000 f(32) 
+[    59-7]  valueFlt ........................................ = 1.000000 f(32) 
+[    60-0]  value ........................................... = 1      u(1) 
+[    64-0]  valueFlt ........................................ = -26.000000 f(32) 
+[    68-0]  valueFlt ........................................ = 4.000000 f(32) 
+[    72-0]  valueFlt ........................................ = -26.000000 f(32) 
+[    76-0]  valueFlt ........................................ = 4.000000 f(32) 
+[    80-0]  valueFlt ........................................ = -26.000000 f(32) 
+[    84-0]  valueFlt ........................................ = 4.000000 f(32) 
+[    84-1]  value ........................................... = 1      u(1) 
+[    88-1]  valueFlt ........................................ = -7.000000 f(32) 
+[    92-1]  valueFlt ........................................ = 18.000000 f(32) 
+[    92-2]  value ........................................... = 1      u(1) 
+[    93-3]  value ........................................... = 16     ue(v) 
+[    94-0]  value ........................................... = 3      ue(v) 
+[    98-0]  valueFlt ........................................ = -4.000000 f(32) 
+[   102-0]  valueFlt ........................................ = 4.000000 f(32) 
+[   106-0]  valueFlt ........................................ = -4.000000 f(32) 
+[   110-0]  valueFlt ........................................ = 4.000000 f(32) 
+[   114-0]  valueFlt ........................................ = -4.000000 f(32) 
+[   118-0]  valueFlt ........................................ = 4.000000 f(32) 
+[   118-5]  value ........................................... = 3      ue(v) 
+[   122-5]  valueFlt ........................................ = -4.000000 f(32) 
+[   126-5]  valueFlt ........................................ = 4.000000 f(32) 
+[   130-5]  valueFlt ........................................ = -4.000000 f(32) 
+[   134-5]  valueFlt ........................................ = 4.000000 f(32) 
+[   138-5]  valueFlt ........................................ = -4.000000 f(32) 
+[   142-5]  valueFlt ........................................ = 4.000000 f(32) 
+[   143-2]  value ........................................... = 3      ue(v) 
+[   147-2]  valueFlt ........................................ = -4.000000 f(32) 
+[   151-2]  valueFlt ........................................ = 4.000000 f(32) 
+[   155-2]  valueFlt ........................................ = -4.000000 f(32) 
+[   159-2]  valueFlt ........................................ = 4.000000 f(32) 
+[   163-2]  valueFlt ........................................ = -4.000000 f(32) 
+[   167-2]  valueFlt ........................................ = 4.000000 f(32) 
+[   167-7]  value ........................................... = 3      ue(v) 
+[   171-7]  valueFlt ........................................ = -4.000000 f(32) 
+[   175-7]  valueFlt ........................................ = 4.000000 f(32) 
+[   179-7]  valueFlt ........................................ = -4.000000 f(32) 
+[   183-7]  valueFlt ........................................ = 4.000000 f(32) 
+[   187-7]  valueFlt ........................................ = -4.000000 f(32) 
+[   191-7]  valueFlt ........................................ = 4.000000 f(32) 
+[   192-4]  value ........................................... = 3      ue(v) 
+[   196-4]  valueFlt ........................................ = -4.000000 f(32) 
+[   200-4]  valueFlt ........................................ = 4.000000 f(32) 
+[   204-4]  valueFlt ........................................ = -4.000000 f(32) 
+[   208-4]  valueFlt ........................................ = 4.000000 f(32) 
+[   212-4]  valueFlt ........................................ = -4.000000 f(32) 
+[   216-4]  valueFlt ........................................ = 4.000000 f(32) 
+[   217-1]  value ........................................... = 3      ue(v) 
+[   221-1]  valueFlt ........................................ = -4.000000 f(32) 
+[   225-1]  valueFlt ........................................ = 4.000000 f(32) 
+[   229-1]  valueFlt ........................................ = -4.000000 f(32) 
+[   233-1]  valueFlt ........................................ = 4.000000 f(32) 
+[   237-1]  valueFlt ........................................ = -4.000000 f(32) 
+[   241-1]  valueFlt ........................................ = 4.000000 f(32) 
+[   241-6]  value ........................................... = 3      ue(v) 
+[   245-6]  valueFlt ........................................ = -4.000000 f(32) 
+[   249-6]  valueFlt ........................................ = 4.000000 f(32) 
+[   253-6]  valueFlt ........................................ = -4.000000 f(32) 
+[   257-6]  valueFlt ........................................ = 4.000000 f(32) 
+[   261-6]  valueFlt ........................................ = -4.000000 f(32) 
+[   265-6]  valueFlt ........................................ = 4.000000 f(32) 
+[   266-3]  value ........................................... = 3      ue(v) 
+[   270-3]  valueFlt ........................................ = -4.000000 f(32) 
+[   274-3]  valueFlt ........................................ = 4.000000 f(32) 
+[   278-3]  valueFlt ........................................ = -4.000000 f(32) 
+[   282-3]  valueFlt ........................................ = 4.000000 f(32) 
+[   286-3]  valueFlt ........................................ = -4.000000 f(32) 
+[   290-3]  valueFlt ........................................ = 4.000000 f(32) 
+[   291-0]  value ........................................... = 3      ue(v) 
+[   295-0]  valueFlt ........................................ = -4.000000 f(32) 
+[   299-0]  valueFlt ........................................ = 4.000000 f(32) 
+[   303-0]  valueFlt ........................................ = -4.000000 f(32) 
+[   307-0]  valueFlt ........................................ = 4.000000 f(32) 
+[   311-0]  valueFlt ........................................ = -4.000000 f(32) 
+[   315-0]  valueFlt ........................................ = 4.000000 f(32) 
+[   315-5]  value ........................................... = 3      ue(v) 
+[   319-5]  valueFlt ........................................ = -4.000000 f(32) 
+[   323-5]  valueFlt ........................................ = 4.000000 f(32) 
+[   327-5]  valueFlt ........................................ = -4.000000 f(32) 
+[   331-5]  valueFlt ........................................ = 4.000000 f(32) 
+[   335-5]  valueFlt ........................................ = -4.000000 f(32) 
+[   339-5]  valueFlt ........................................ = 4.000000 f(32) 
+[   340-2]  value ........................................... = 3      ue(v) 
+[   344-2]  valueFlt ........................................ = -4.000000 f(32) 
+[   348-2]  valueFlt ........................................ = 4.000000 f(32) 
+[   352-2]  valueFlt ........................................ = -4.000000 f(32) 
+[   356-2]  valueFlt ........................................ = 4.000000 f(32) 
+[   360-2]  valueFlt ........................................ = -4.000000 f(32) 
+[   364-2]  valueFlt ........................................ = 4.000000 f(32) 
+[   364-7]  value ........................................... = 3      ue(v) 
+[   368-7]  valueFlt ........................................ = -4.000000 f(32) 
+[   372-7]  valueFlt ........................................ = 4.000000 f(32) 
+[   376-7]  valueFlt ........................................ = -4.000000 f(32) 
+[   380-7]  valueFlt ........................................ = 4.000000 f(32) 
+[   384-7]  valueFlt ........................................ = -4.000000 f(32) 
+[   388-7]  valueFlt ........................................ = 4.000000 f(32) 
+[   389-4]  value ........................................... = 3      ue(v) 
+[   393-4]  valueFlt ........................................ = -4.000000 f(32) 
+[   397-4]  valueFlt ........................................ = 4.000000 f(32) 
+[   401-4]  valueFlt ........................................ = -4.000000 f(32) 
+[   405-4]  valueFlt ........................................ = 4.000000 f(32) 
+[   409-4]  valueFlt ........................................ = -4.000000 f(32) 
+[   413-4]  valueFlt ........................................ = 4.000000 f(32) 
+[   414-1]  value ........................................... = 3      ue(v) 
+[   418-1]  valueFlt ........................................ = -4.000000 f(32) 
+[   422-1]  valueFlt ........................................ = 4.000000 f(32) 
+[   426-1]  valueFlt ........................................ = -4.000000 f(32) 
+[   430-1]  valueFlt ........................................ = 4.000000 f(32) 
+[   434-1]  valueFlt ........................................ = -4.000000 f(32) 
+[   438-1]  valueFlt ........................................ = 4.000000 f(32) 
+[   438-6]  value ........................................... = 3      ue(v) 
+[   442-6]  valueFlt ........................................ = -4.000000 f(32) 
+[   446-6]  valueFlt ........................................ = 4.000000 f(32) 
+[   450-6]  valueFlt ........................................ = -4.000000 f(32) 
+[   454-6]  valueFlt ........................................ = 4.000000 f(32) 
+[   458-6]  valueFlt ........................................ = -4.000000 f(32) 
+[   462-6]  valueFlt ........................................ = 4.000000 f(32) 
+[   463-3]  value ........................................... = 3      ue(v) 
+[   467-3]  valueFlt ........................................ = -4.000000 f(32) 
+[   471-3]  valueFlt ........................................ = 4.000000 f(32) 
+[   475-3]  valueFlt ........................................ = -4.000000 f(32) 
+[   479-3]  valueFlt ........................................ = 4.000000 f(32) 
+[   483-3]  valueFlt ........................................ = -4.000000 f(32) 
+[   487-3]  valueFlt ........................................ = 4.000000 f(32) 
+[   487-3] } ~gsDequantization
+[   487-3] rbspTrailingBits 
+[   517-0] nalu[47]:NAL_AAPS, nalSizePrecision:2, naluSize:488, sizeBitstream written: 517
+[   517-0] sampleStreamNalUnit 
+[   517-0] UnitSizePrecisionBytesMinus1 = 1 
+[     0-0] nalUnitHeader 
+[     2-0]  NalUnitSize      = 989 
+[     2-0]  NalUnitType      = 23 
+[     2-0]  LayerId          = 0 
+[     2-0]  TemporalyIdPlus1 = 1 
+[     2-0] atlasTileLayerRbsp 
+[     2-0] atlasTileHeader 
+[     2-3]  getNumTilesInAtlasFrameMinus1: 0
+[     4-0]  AtlasFrameParameterSetId: 0
+[     4-0]  AtlasSequenceParameterSetId: 0
+[     4-0]  Address       0
+[     4-0]  Type          1
+[     4-0]  FrameOrderCnt 0
+[     4-1]  rlsIdx 0 numLtrAtlasFrmEntries 0 
+[     4-1] Raw3dOffsetBitCountExplicitModeFlag    = 0 
+[     4-1] Geometry3dBitdepthMinus1 = 17 
+[     4-1] Geometry2dBitdepthMinus1 = 9 
+[     4-1] ==> Raw3dOffsetAxisBitCountMinus1  = 7 
+[     4-1] ==> NumRefIdxActiveOverrideFlag = 0 
+[     4-1] ==> NumRefIdxActiveMinus1       = 0 
+[     4-1] byteAlignment 
+[     5-0] atlasTileDataUnit 
+[     5-0] Type = 1 
+[     5-0] patch 0 : 
+[     5-3] patchMode = 1 
+[     5-3] patchInformationData: AtghType = 1 patchMode = 1 
+[     5-3] rawPatchDataUnit 
+[     5-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[     5-4]2dPosX ............................................ = 0      ue(v) 
+[     5-5]2dPosY ............................................ = 0      ue(v) 
+[     8-0]sizeXMinus1 ....................................... = 670    ue(v) 
+[     8-3]sizeYMinus1 ....................................... = 1      ue(v) 
+[     9-3]set3dOffsetU ...................................... = 0      u(8) 
+[    10-3]set3dOffsetV ...................................... = 0      u(8) 
+[    11-3]set3dOffsetD ...................................... = 0      u(8) 
+[    13-4]rawPointsMinus1 ................................... = 446    ue(v) 
+[    13-4] Raw Patch => UV    0    0  S= 671    2  UVD1=   0    0    0 NumPcmPoints=447 PatchInRawVideoFlag=0 
+[    13-4] patch 1 : 
+[    13-7] patchMode = 1 
+[    13-7] patchInformationData: AtghType = 1 patchMode = 1 
+[    13-7] rawPatchDataUnit 
+[    13-7]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[    14-0]2dPosX ............................................ = 0      ue(v) 
+[    14-3]2dPosY ............................................ = 2      ue(v) 
+[    16-6]sizeXMinus1 ....................................... = 1014   ue(v) 
+[    17-5]sizeYMinus1 ....................................... = 14     ue(v) 
+[    18-5]set3dOffsetU ...................................... = 0      u(8) 
+[    19-5]set3dOffsetV ...................................... = 0      u(8) 
+[    20-5]set3dOffsetD ...................................... = 1      u(8) 
+[    23-6]rawPointsMinus1 ................................... = 5073   ue(v) 
+[    23-6] Raw Patch => UV    0    2  S=1015   15  UVD1=   0    0    1 NumPcmPoints=5074 PatchInRawVideoFlag=0 
+[    23-6] patch 2 : 
+[    24-1] patchMode = 1 
+[    24-1] patchInformationData: AtghType = 1 patchMode = 1 
+[    24-1] rawPatchDataUnit 
+[    24-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[    24-2]2dPosX ............................................ = 0      ue(v) 
+[    25-3]2dPosY ............................................ = 17     ue(v) 
+[    27-6]sizeXMinus1 ....................................... = 893    ue(v) 
+[    28-3]sizeYMinus1 ....................................... = 5      ue(v) 
+[    29-3]set3dOffsetU ...................................... = 0      u(8) 
+[    30-3]set3dOffsetV ...................................... = 1      u(8) 
+[    31-3]set3dOffsetD ...................................... = 0      u(8) 
+[    34-0]rawPointsMinus1 ................................... = 1787   ue(v) 
+[    34-0] Raw Patch => UV    0   17  S= 894    6  UVD1=   0    1    0 NumPcmPoints=1788 PatchInRawVideoFlag=0 
+[    34-0] patch 3 : 
+[    34-3] patchMode = 1 
+[    34-3] patchInformationData: AtghType = 1 patchMode = 1 
+[    34-3] rawPatchDataUnit 
+[    34-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[    34-4]2dPosX ............................................ = 0      ue(v) 
+[    35-5]2dPosY ............................................ = 23     ue(v) 
+[    38-0]sizeXMinus1 ....................................... = 1021   ue(v) 
+[    38-7]sizeYMinus1 ....................................... = 12     ue(v) 
+[    39-7]set3dOffsetU ...................................... = 0      u(8) 
+[    40-7]set3dOffsetV ...................................... = 1      u(8) 
+[    41-7]set3dOffsetD ...................................... = 1      u(8) 
+[    45-0]rawPointsMinus1 ................................... = 4427   ue(v) 
+[    45-0] Raw Patch => UV    0   23  S=1022   13  UVD1=   0    1    1 NumPcmPoints=4428 PatchInRawVideoFlag=0 
+[    45-0] patch 4 : 
+[    45-3] patchMode = 1 
+[    45-3] patchInformationData: AtghType = 1 patchMode = 1 
+[    45-3] rawPatchDataUnit 
+[    45-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[    45-4]2dPosX ............................................ = 0      ue(v) 
+[    46-7]2dPosY ............................................ = 36     ue(v) 
+[    49-2]sizeXMinus1 ....................................... = 933    ue(v) 
+[    50-1]sizeYMinus1 ....................................... = 10     ue(v) 
+[    51-1]set3dOffsetU ...................................... = 0      u(8) 
+[    52-1]set3dOffsetV ...................................... = 2      u(8) 
+[    53-1]set3dOffsetD ...................................... = 0      u(8) 
+[    56-0]rawPointsMinus1 ................................... = 3422   ue(v) 
+[    56-0] Raw Patch => UV    0   36  S= 934   11  UVD1=   0    2    0 NumPcmPoints=3423 PatchInRawVideoFlag=0 
+[    56-0] patch 5 : 
+[    56-3] patchMode = 1 
+[    56-3] patchInformationData: AtghType = 1 patchMode = 1 
+[    56-3] rawPatchDataUnit 
+[    56-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[    56-4]2dPosX ............................................ = 0      ue(v) 
+[    57-7]2dPosY ............................................ = 47     ue(v) 
+[    60-2]sizeXMinus1 ....................................... = 984    ue(v) 
+[    61-1]sizeYMinus1 ....................................... = 11     ue(v) 
+[    62-1]set3dOffsetU ...................................... = 0      u(8) 
+[    63-1]set3dOffsetV ...................................... = 2      u(8) 
+[    64-1]set3dOffsetD ...................................... = 1      u(8) 
+[    67-0]rawPointsMinus1 ................................... = 3939   ue(v) 
+[    67-0] Raw Patch => UV    0   47  S= 985   12  UVD1=   0    2    1 NumPcmPoints=3940 PatchInRawVideoFlag=0 
+[    67-0] patch 6 : 
+[    67-3] patchMode = 1 
+[    67-3] patchInformationData: AtghType = 1 patchMode = 1 
+[    67-3] rawPatchDataUnit 
+[    67-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[    67-4]2dPosX ............................................ = 0      ue(v) 
+[    68-7]2dPosY ............................................ = 59     ue(v) 
+[    71-2]sizeXMinus1 ....................................... = 928    ue(v) 
+[    72-1]sizeYMinus1 ....................................... = 8      ue(v) 
+[    73-1]set3dOffsetU ...................................... = 0      u(8) 
+[    74-1]set3dOffsetV ...................................... = 3      u(8) 
+[    75-1]set3dOffsetD ...................................... = 0      u(8) 
+[    78-0]rawPointsMinus1 ................................... = 2784   ue(v) 
+[    78-0] Raw Patch => UV    0   59  S= 929    9  UVD1=   0    3    0 NumPcmPoints=2785 PatchInRawVideoFlag=0 
+[    78-0] patch 7 : 
+[    78-3] patchMode = 1 
+[    78-3] patchInformationData: AtghType = 1 patchMode = 1 
+[    78-3] rawPatchDataUnit 
+[    78-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[    78-4]2dPosX ............................................ = 0      ue(v) 
+[    80-1]2dPosY ............................................ = 68     ue(v) 
+[    82-4]sizeXMinus1 ....................................... = 775    ue(v) 
+[    82-7]sizeYMinus1 ....................................... = 2      ue(v) 
+[    83-7]set3dOffsetU ...................................... = 0      u(8) 
+[    84-7]set3dOffsetV ...................................... = 3      u(8) 
+[    85-7]set3dOffsetD ...................................... = 1      u(8) 
+[    88-2]rawPointsMinus1 ................................... = 775    ue(v) 
+[    88-2] Raw Patch => UV    0   68  S= 776    3  UVD1=   0    3    1 NumPcmPoints=776 PatchInRawVideoFlag=0 
+[    88-2] patch 8 : 
+[    88-5] patchMode = 1 
+[    88-5] patchInformationData: AtghType = 1 patchMode = 1 
+[    88-5] rawPatchDataUnit 
+[    88-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[    88-6]2dPosX ............................................ = 0      ue(v) 
+[    90-3]2dPosY ............................................ = 71     ue(v) 
+[    92-6]sizeXMinus1 ....................................... = 616    ue(v) 
+[    93-1]sizeYMinus1 ....................................... = 1      ue(v) 
+[    94-1]set3dOffsetU ...................................... = 1      u(8) 
+[    95-1]set3dOffsetV ...................................... = 0      u(8) 
+[    96-1]set3dOffsetD ...................................... = 0      u(8) 
+[    98-2]rawPointsMinus1 ................................... = 410    ue(v) 
+[    98-2] Raw Patch => UV    0   71  S= 617    2  UVD1=   1    0    0 NumPcmPoints=411 PatchInRawVideoFlag=0 
+[    98-2] patch 9 : 
+[    98-5] patchMode = 1 
+[    98-5] patchInformationData: AtghType = 1 patchMode = 1 
+[    98-5] rawPatchDataUnit 
+[    98-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[    98-6]2dPosX ............................................ = 0      ue(v) 
+[   100-3]2dPosY ............................................ = 73     ue(v) 
+[   102-6]sizeXMinus1 ....................................... = 997    ue(v) 
+[   103-5]sizeYMinus1 ....................................... = 14     ue(v) 
+[   104-5]set3dOffsetU ...................................... = 1      u(8) 
+[   105-5]set3dOffsetV ...................................... = 0      u(8) 
+[   106-5]set3dOffsetD ...................................... = 1      u(8) 
+[   109-6]rawPointsMinus1 ................................... = 4988   ue(v) 
+[   109-6] Raw Patch => UV    0   73  S= 998   15  UVD1=   1    0    1 NumPcmPoints=4989 PatchInRawVideoFlag=0 
+[   109-6] patch 10 : 
+[   110-1] patchMode = 1 
+[   110-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   110-1] rawPatchDataUnit 
+[   110-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   110-2]2dPosX ............................................ = 0      ue(v) 
+[   111-7]2dPosY ............................................ = 88     ue(v) 
+[   114-2]sizeXMinus1 ....................................... = 815    ue(v) 
+[   114-7]sizeYMinus1 ....................................... = 3      ue(v) 
+[   115-7]set3dOffsetU ...................................... = 1      u(8) 
+[   116-7]set3dOffsetV ...................................... = 0      u(8) 
+[   117-7]set3dOffsetD ...................................... = 2      u(8) 
+[   120-4]rawPointsMinus1 ................................... = 1086   ue(v) 
+[   120-4] Raw Patch => UV    0   88  S= 816    4  UVD1=   1    0    2 NumPcmPoints=1087 PatchInRawVideoFlag=0 
+[   120-4] patch 11 : 
+[   120-7] patchMode = 1 
+[   120-7] patchInformationData: AtghType = 1 patchMode = 1 
+[   120-7] rawPatchDataUnit 
+[   120-7]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   121-0]2dPosX ............................................ = 0      ue(v) 
+[   122-5]2dPosY ............................................ = 92     ue(v) 
+[   125-0]sizeXMinus1 ....................................... = 833    ue(v) 
+[   125-5]sizeYMinus1 ....................................... = 4      ue(v) 
+[   126-5]set3dOffsetU ...................................... = 1      u(8) 
+[   127-5]set3dOffsetV ...................................... = 1      u(8) 
+[   128-5]set3dOffsetD ...................................... = 0      u(8) 
+[   131-2]rawPointsMinus1 ................................... = 1388   ue(v) 
+[   131-2] Raw Patch => UV    0   92  S= 834    5  UVD1=   1    1    0 NumPcmPoints=1389 PatchInRawVideoFlag=0 
+[   131-2] patch 12 : 
+[   131-5] patchMode = 1 
+[   131-5] patchInformationData: AtghType = 1 patchMode = 1 
+[   131-5] rawPatchDataUnit 
+[   131-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   131-6]2dPosX ............................................ = 0      ue(v) 
+[   133-3]2dPosY ............................................ = 97     ue(v) 
+[   135-6]sizeXMinus1 ....................................... = 964    ue(v) 
+[   136-5]sizeYMinus1 ....................................... = 10     ue(v) 
+[   137-5]set3dOffsetU ...................................... = 1      u(8) 
+[   138-5]set3dOffsetV ...................................... = 1      u(8) 
+[   139-5]set3dOffsetD ...................................... = 1      u(8) 
+[   142-4]rawPointsMinus1 ................................... = 3534   ue(v) 
+[   142-4] Raw Patch => UV    0   97  S= 965   11  UVD1=   1    1    1 NumPcmPoints=3535 PatchInRawVideoFlag=0 
+[   142-4] patch 13 : 
+[   142-7] patchMode = 1 
+[   142-7] patchInformationData: AtghType = 1 patchMode = 1 
+[   142-7] rawPatchDataUnit 
+[   142-7]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   143-0]2dPosX ............................................ = 0      ue(v) 
+[   144-5]2dPosY ............................................ = 108    ue(v) 
+[   147-0]sizeXMinus1 ....................................... = 760    ue(v) 
+[   147-3]sizeYMinus1 ....................................... = 2      ue(v) 
+[   148-3]set3dOffsetU ...................................... = 1      u(8) 
+[   149-3]set3dOffsetV ...................................... = 1      u(8) 
+[   150-3]set3dOffsetD ...................................... = 2      u(8) 
+[   152-6]rawPointsMinus1 ................................... = 760    ue(v) 
+[   152-6] Raw Patch => UV    0  108  S= 761    3  UVD1=   1    1    2 NumPcmPoints=761 PatchInRawVideoFlag=0 
+[   152-6] patch 14 : 
+[   153-1] patchMode = 1 
+[   153-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   153-1] rawPatchDataUnit 
+[   153-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   153-2]2dPosX ............................................ = 0      ue(v) 
+[   154-7]2dPosY ............................................ = 111    ue(v) 
+[   157-2]sizeXMinus1 ....................................... = 932    ue(v) 
+[   157-7]sizeYMinus1 ....................................... = 5      ue(v) 
+[   158-7]set3dOffsetU ...................................... = 1      u(8) 
+[   159-7]set3dOffsetV ...................................... = 2      u(8) 
+[   160-7]set3dOffsetD ...................................... = 0      u(8) 
+[   163-4]rawPointsMinus1 ................................... = 1865   ue(v) 
+[   163-4] Raw Patch => UV    0  111  S= 933    6  UVD1=   1    2    0 NumPcmPoints=1866 PatchInRawVideoFlag=0 
+[   163-4] patch 15 : 
+[   163-7] patchMode = 1 
+[   163-7] patchInformationData: AtghType = 1 patchMode = 1 
+[   163-7] rawPatchDataUnit 
+[   163-7]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   164-0]2dPosX ............................................ = 0      ue(v) 
+[   165-5]2dPosY ............................................ = 117    ue(v) 
+[   168-2]sizeXMinus1 ....................................... = 1023   ue(v) 
+[   169-1]sizeYMinus1 ....................................... = 12     ue(v) 
+[   170-1]set3dOffsetU ...................................... = 1      u(8) 
+[   171-1]set3dOffsetV ...................................... = 2      u(8) 
+[   172-1]set3dOffsetD ...................................... = 1      u(8) 
+[   175-2]rawPointsMinus1 ................................... = 4435   ue(v) 
+[   175-2] Raw Patch => UV    0  117  S=1024   13  UVD1=   1    2    1 NumPcmPoints=4436 PatchInRawVideoFlag=0 
+[   175-2] patch 16 : 
+[   175-5] patchMode = 1 
+[   175-5] patchInformationData: AtghType = 1 patchMode = 1 
+[   175-5] rawPatchDataUnit 
+[   175-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   175-6]2dPosX ............................................ = 0      ue(v) 
+[   177-5]2dPosY ............................................ = 130    ue(v) 
+[   180-0]sizeXMinus1 ....................................... = 972    ue(v) 
+[   180-7]sizeYMinus1 ....................................... = 8      ue(v) 
+[   181-7]set3dOffsetU ...................................... = 1      u(8) 
+[   182-7]set3dOffsetV ...................................... = 3      u(8) 
+[   183-7]set3dOffsetD ...................................... = 0      u(8) 
+[   186-6]rawPointsMinus1 ................................... = 2917   ue(v) 
+[   186-6] Raw Patch => UV    0  130  S= 973    9  UVD1=   1    3    0 NumPcmPoints=2918 PatchInRawVideoFlag=0 
+[   186-6] patch 17 : 
+[   187-1] patchMode = 1 
+[   187-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   187-1] rawPatchDataUnit 
+[   187-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   187-2]2dPosX ............................................ = 0      ue(v) 
+[   189-1]2dPosY ............................................ = 139    ue(v) 
+[   191-4]sizeXMinus1 ....................................... = 960    ue(v) 
+[   192-3]sizeYMinus1 ....................................... = 8      ue(v) 
+[   193-3]set3dOffsetU ...................................... = 1      u(8) 
+[   194-3]set3dOffsetV ...................................... = 3      u(8) 
+[   195-3]set3dOffsetD ...................................... = 1      u(8) 
+[   198-2]rawPointsMinus1 ................................... = 2882   ue(v) 
+[   198-2] Raw Patch => UV    0  139  S= 961    9  UVD1=   1    3    1 NumPcmPoints=2883 PatchInRawVideoFlag=0 
+[   198-2] patch 18 : 
+[   198-5] patchMode = 1 
+[   198-5] patchInformationData: AtghType = 1 patchMode = 1 
+[   198-5] rawPatchDataUnit 
+[   198-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   198-6]2dPosX ............................................ = 0      ue(v) 
+[   200-5]2dPosY ............................................ = 148    ue(v) 
+[   203-0]sizeXMinus1 ....................................... = 917    ue(v) 
+[   203-5]sizeYMinus1 ....................................... = 3      ue(v) 
+[   204-5]set3dOffsetU ...................................... = 2      u(8) 
+[   205-5]set3dOffsetV ...................................... = 0      u(8) 
+[   206-5]set3dOffsetD ...................................... = 0      u(8) 
+[   209-2]rawPointsMinus1 ................................... = 1222   ue(v) 
+[   209-2] Raw Patch => UV    0  148  S= 918    4  UVD1=   2    0    0 NumPcmPoints=1223 PatchInRawVideoFlag=0 
+[   209-2] patch 19 : 
+[   209-5] patchMode = 1 
+[   209-5] patchInformationData: AtghType = 1 patchMode = 1 
+[   209-5] rawPatchDataUnit 
+[   209-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   209-6]2dPosX ............................................ = 0      ue(v) 
+[   211-5]2dPosY ............................................ = 152    ue(v) 
+[   214-0]sizeXMinus1 ....................................... = 953    ue(v) 
+[   214-7]sizeYMinus1 ....................................... = 10     ue(v) 
+[   215-7]set3dOffsetU ...................................... = 2      u(8) 
+[   216-7]set3dOffsetV ...................................... = 0      u(8) 
+[   217-7]set3dOffsetD ...................................... = 1      u(8) 
+[   220-6]rawPointsMinus1 ................................... = 3495   ue(v) 
+[   220-6] Raw Patch => UV    0  152  S= 954   11  UVD1=   2    0    1 NumPcmPoints=3496 PatchInRawVideoFlag=0 
+[   220-6] patch 20 : 
+[   221-1] patchMode = 1 
+[   221-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   221-1] rawPatchDataUnit 
+[   221-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   221-2]2dPosX ............................................ = 0      ue(v) 
+[   223-1]2dPosY ............................................ = 163    ue(v) 
+[   225-4]sizeXMinus1 ....................................... = 988    ue(v) 
+[   226-1]sizeYMinus1 ....................................... = 6      ue(v) 
+[   227-1]set3dOffsetU ...................................... = 2      u(8) 
+[   228-1]set3dOffsetV ...................................... = 0      u(8) 
+[   229-1]set3dOffsetD ...................................... = 2      u(8) 
+[   232-0]rawPointsMinus1 ................................... = 2305   ue(v) 
+[   232-0] Raw Patch => UV    0  163  S= 989    7  UVD1=   2    0    2 NumPcmPoints=2306 PatchInRawVideoFlag=0 
+[   232-0] patch 21 : 
+[   232-3] patchMode = 1 
+[   232-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   232-3] rawPatchDataUnit 
+[   232-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   232-4]2dPosX ............................................ = 0      ue(v) 
+[   234-3]2dPosY ............................................ = 170    ue(v) 
+[   236-6]sizeXMinus1 ....................................... = 1008   ue(v) 
+[   237-1]sizeYMinus1 ....................................... = 2      ue(v) 
+[   238-1]set3dOffsetU ...................................... = 2      u(8) 
+[   239-1]set3dOffsetV ...................................... = 1      u(8) 
+[   240-1]set3dOffsetD ...................................... = 0      u(8) 
+[   242-4]rawPointsMinus1 ................................... = 1008   ue(v) 
+[   242-4] Raw Patch => UV    0  170  S=1009    3  UVD1=   2    1    0 NumPcmPoints=1009 PatchInRawVideoFlag=0 
+[   242-4] patch 22 : 
+[   242-7] patchMode = 1 
+[   242-7] patchInformationData: AtghType = 1 patchMode = 1 
+[   242-7] rawPatchDataUnit 
+[   242-7]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   243-0]2dPosX ............................................ = 0      ue(v) 
+[   244-7]2dPosY ............................................ = 173    ue(v) 
+[   247-2]sizeXMinus1 ....................................... = 935    ue(v) 
+[   247-7]sizeYMinus1 ....................................... = 6      ue(v) 
+[   248-7]set3dOffsetU ...................................... = 2      u(8) 
+[   249-7]set3dOffsetV ...................................... = 1      u(8) 
+[   250-7]set3dOffsetD ...................................... = 1      u(8) 
+[   253-6]rawPointsMinus1 ................................... = 2182   ue(v) 
+[   253-6] Raw Patch => UV    0  173  S= 936    7  UVD1=   2    1    1 NumPcmPoints=2183 PatchInRawVideoFlag=0 
+[   253-6] patch 23 : 
+[   254-1] patchMode = 1 
+[   254-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   254-1] rawPatchDataUnit 
+[   254-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   254-2]2dPosX ............................................ = 0      ue(v) 
+[   256-1]2dPosY ............................................ = 180    ue(v) 
+[   258-4]sizeXMinus1 ....................................... = 944    ue(v) 
+[   259-1]sizeYMinus1 ....................................... = 4      ue(v) 
+[   260-1]set3dOffsetU ...................................... = 2      u(8) 
+[   261-1]set3dOffsetV ...................................... = 1      u(8) 
+[   262-1]set3dOffsetD ...................................... = 2      u(8) 
+[   264-6]rawPointsMinus1 ................................... = 1573   ue(v) 
+[   264-6] Raw Patch => UV    0  180  S= 945    5  UVD1=   2    1    2 NumPcmPoints=1574 PatchInRawVideoFlag=0 
+[   264-6] patch 24 : 
+[   265-1] patchMode = 1 
+[   265-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   265-1] rawPatchDataUnit 
+[   265-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   265-2]2dPosX ............................................ = 0      ue(v) 
+[   267-1]2dPosY ............................................ = 185    ue(v) 
+[   269-4]sizeXMinus1 ....................................... = 988    ue(v) 
+[   270-1]sizeYMinus1 ....................................... = 4      ue(v) 
+[   271-1]set3dOffsetU ...................................... = 2      u(8) 
+[   272-1]set3dOffsetV ...................................... = 2      u(8) 
+[   273-1]set3dOffsetD ...................................... = 0      u(8) 
+[   275-6]rawPointsMinus1 ................................... = 1646   ue(v) 
+[   275-6] Raw Patch => UV    0  185  S= 989    5  UVD1=   2    2    0 NumPcmPoints=1647 PatchInRawVideoFlag=0 
+[   275-6] patch 25 : 
+[   276-1] patchMode = 1 
+[   276-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   276-1] rawPatchDataUnit 
+[   276-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   276-2]2dPosX ............................................ = 0      ue(v) 
+[   278-1]2dPosY ............................................ = 190    ue(v) 
+[   280-4]sizeXMinus1 ....................................... = 1015   ue(v) 
+[   281-3]sizeYMinus1 ....................................... = 8      ue(v) 
+[   282-3]set3dOffsetU ...................................... = 2      u(8) 
+[   283-3]set3dOffsetV ...................................... = 2      u(8) 
+[   284-3]set3dOffsetD ...................................... = 1      u(8) 
+[   287-2]rawPointsMinus1 ................................... = 3047   ue(v) 
+[   287-2] Raw Patch => UV    0  190  S=1016    9  UVD1=   2    2    1 NumPcmPoints=3048 PatchInRawVideoFlag=0 
+[   287-2] patch 26 : 
+[   287-5] patchMode = 1 
+[   287-5] patchInformationData: AtghType = 1 patchMode = 1 
+[   287-5] rawPatchDataUnit 
+[   287-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   290-0]2dPosX ............................................ = 671    ue(v) 
+[   290-1]2dPosY ............................................ = 0      ue(v) 
+[   290-4]sizeXMinus1 ....................................... = 2      ue(v) 
+[   290-5]sizeYMinus1 ....................................... = 0      ue(v) 
+[   291-5]set3dOffsetU ...................................... = 2      u(8) 
+[   292-5]set3dOffsetV ...................................... = 2      u(8) 
+[   293-5]set3dOffsetD ...................................... = 2      u(8) 
+[   293-6]rawPointsMinus1 ................................... = 0      ue(v) 
+[   293-6] Raw Patch => UV  671    0  S=   3    1  UVD1=   2    2    2 NumPcmPoints=1 PatchInRawVideoFlag=0 
+[   293-6] patch 27 : 
+[   294-1] patchMode = 1 
+[   294-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   294-1] rawPatchDataUnit 
+[   294-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   294-2]2dPosX ............................................ = 0      ue(v) 
+[   296-1]2dPosY ............................................ = 199    ue(v) 
+[   298-4]sizeXMinus1 ....................................... = 965    ue(v) 
+[   299-1]sizeYMinus1 ....................................... = 6      ue(v) 
+[   300-1]set3dOffsetU ...................................... = 2      u(8) 
+[   301-1]set3dOffsetV ...................................... = 3      u(8) 
+[   302-1]set3dOffsetD ...................................... = 0      u(8) 
+[   305-0]rawPointsMinus1 ................................... = 2252   ue(v) 
+[   305-0] Raw Patch => UV    0  199  S= 966    7  UVD1=   2    3    0 NumPcmPoints=2253 PatchInRawVideoFlag=0 
+[   305-0] patch 28 : 
+[   305-3] patchMode = 1 
+[   305-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   305-3] rawPatchDataUnit 
+[   305-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   305-4]2dPosX ............................................ = 0      ue(v) 
+[   307-3]2dPosY ............................................ = 206    ue(v) 
+[   309-6]sizeXMinus1 ....................................... = 971    ue(v) 
+[   310-5]sizeYMinus1 ....................................... = 12     ue(v) 
+[   311-5]set3dOffsetU ...................................... = 2      u(8) 
+[   312-5]set3dOffsetV ...................................... = 3      u(8) 
+[   313-5]set3dOffsetD ...................................... = 1      u(8) 
+[   316-6]rawPointsMinus1 ................................... = 4209   ue(v) 
+[   316-6] Raw Patch => UV    0  206  S= 972   13  UVD1=   2    3    1 NumPcmPoints=4210 PatchInRawVideoFlag=0 
+[   316-6] patch 29 : 
+[   317-1] patchMode = 1 
+[   317-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   317-1] rawPatchDataUnit 
+[   317-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   319-4]2dPosX ............................................ = 674    ue(v) 
+[   319-5]2dPosY ............................................ = 0      ue(v) 
+[   321-0]sizeXMinus1 ....................................... = 53     ue(v) 
+[   321-1]sizeYMinus1 ....................................... = 0      ue(v) 
+[   322-1]set3dOffsetU ...................................... = 3      u(8) 
+[   323-1]set3dOffsetV ...................................... = 0      u(8) 
+[   324-1]set3dOffsetD ...................................... = 0      u(8) 
+[   325-2]rawPointsMinus1 ................................... = 17     ue(v) 
+[   325-2] Raw Patch => UV  674    0  S=  54    1  UVD1=   3    0    0 NumPcmPoints=18 PatchInRawVideoFlag=0 
+[   325-2] patch 30 : 
+[   325-5] patchMode = 1 
+[   325-5] patchInformationData: AtghType = 1 patchMode = 1 
+[   325-5] rawPatchDataUnit 
+[   325-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   325-6]2dPosX ............................................ = 0      ue(v) 
+[   327-5]2dPosY ............................................ = 219    ue(v) 
+[   330-0]sizeXMinus1 ....................................... = 994    ue(v) 
+[   330-7]sizeYMinus1 ....................................... = 12     ue(v) 
+[   331-7]set3dOffsetU ...................................... = 3      u(8) 
+[   332-7]set3dOffsetV ...................................... = 0      u(8) 
+[   333-7]set3dOffsetD ...................................... = 1      u(8) 
+[   337-0]rawPointsMinus1 ................................... = 4309   ue(v) 
+[   337-0] Raw Patch => UV    0  219  S= 995   13  UVD1=   3    0    1 NumPcmPoints=4310 PatchInRawVideoFlag=0 
+[   337-0] patch 31 : 
+[   337-3] patchMode = 1 
+[   337-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   337-3] rawPatchDataUnit 
+[   337-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   337-4]2dPosX ............................................ = 0      ue(v) 
+[   339-3]2dPosY ............................................ = 232    ue(v) 
+[   341-6]sizeXMinus1 ....................................... = 1006   ue(v) 
+[   342-3]sizeYMinus1 ....................................... = 5      ue(v) 
+[   343-3]set3dOffsetU ...................................... = 3      u(8) 
+[   344-3]set3dOffsetV ...................................... = 0      u(8) 
+[   345-3]set3dOffsetD ...................................... = 2      u(8) 
+[   348-0]rawPointsMinus1 ................................... = 2013   ue(v) 
+[   348-0] Raw Patch => UV    0  232  S=1007    6  UVD1=   3    0    2 NumPcmPoints=2014 PatchInRawVideoFlag=0 
+[   348-0] patch 32 : 
+[   348-3] patchMode = 1 
+[   348-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   348-3] rawPatchDataUnit 
+[   348-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   348-4]2dPosX ............................................ = 0      ue(v) 
+[   350-3]2dPosY ............................................ = 238    ue(v) 
+[   352-6]sizeXMinus1 ....................................... = 769    ue(v) 
+[   353-3]sizeYMinus1 ....................................... = 3      ue(v) 
+[   354-3]set3dOffsetU ...................................... = 3      u(8) 
+[   355-3]set3dOffsetV ...................................... = 1      u(8) 
+[   356-3]set3dOffsetD ...................................... = 0      u(8) 
+[   359-0]rawPointsMinus1 ................................... = 1025   ue(v) 
+[   359-0] Raw Patch => UV    0  238  S= 770    4  UVD1=   3    1    0 NumPcmPoints=1026 PatchInRawVideoFlag=0 
+[   359-0] patch 33 : 
+[   359-3] patchMode = 1 
+[   359-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   359-3] rawPatchDataUnit 
+[   359-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   359-4]2dPosX ............................................ = 0      ue(v) 
+[   361-3]2dPosY ............................................ = 242    ue(v) 
+[   363-6]sizeXMinus1 ....................................... = 988    ue(v) 
+[   364-3]sizeYMinus1 ....................................... = 4      ue(v) 
+[   365-3]set3dOffsetU ...................................... = 3      u(8) 
+[   366-3]set3dOffsetV ...................................... = 1      u(8) 
+[   367-3]set3dOffsetD ...................................... = 1      u(8) 
+[   370-0]rawPointsMinus1 ................................... = 1647   ue(v) 
+[   370-0] Raw Patch => UV    0  242  S= 989    5  UVD1=   3    1    1 NumPcmPoints=1648 PatchInRawVideoFlag=0 
+[   370-0] patch 34 : 
+[   370-3] patchMode = 1 
+[   370-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   370-3] rawPatchDataUnit 
+[   370-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   370-4]2dPosX ............................................ = 0      ue(v) 
+[   372-3]2dPosY ............................................ = 247    ue(v) 
+[   374-6]sizeXMinus1 ....................................... = 1001   ue(v) 
+[   375-5]sizeYMinus1 ....................................... = 12     ue(v) 
+[   376-5]set3dOffsetU ...................................... = 3      u(8) 
+[   377-5]set3dOffsetV ...................................... = 1      u(8) 
+[   378-5]set3dOffsetD ...................................... = 2      u(8) 
+[   381-6]rawPointsMinus1 ................................... = 4340   ue(v) 
+[   381-6] Raw Patch => UV    0  247  S=1002   13  UVD1=   3    1    2 NumPcmPoints=4341 PatchInRawVideoFlag=0 
+[   381-6] patch 35 : 
+[   382-1] patchMode = 1 
+[   382-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   382-1] rawPatchDataUnit 
+[   382-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   382-2]2dPosX ............................................ = 0      ue(v) 
+[   384-3]2dPosY ............................................ = 260    ue(v) 
+[   386-6]sizeXMinus1 ....................................... = 1005   ue(v) 
+[   387-3]sizeYMinus1 ....................................... = 4      ue(v) 
+[   388-3]set3dOffsetU ...................................... = 3      u(8) 
+[   389-3]set3dOffsetV ...................................... = 2      u(8) 
+[   390-3]set3dOffsetD ...................................... = 0      u(8) 
+[   393-0]rawPointsMinus1 ................................... = 1675   ue(v) 
+[   393-0] Raw Patch => UV    0  260  S=1006    5  UVD1=   3    2    0 NumPcmPoints=1676 PatchInRawVideoFlag=0 
+[   393-0] patch 36 : 
+[   393-3] patchMode = 1 
+[   393-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   393-3] rawPatchDataUnit 
+[   393-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   393-4]2dPosX ............................................ = 0      ue(v) 
+[   395-5]2dPosY ............................................ = 265    ue(v) 
+[   398-0]sizeXMinus1 ....................................... = 893    ue(v) 
+[   398-5]sizeYMinus1 ....................................... = 5      ue(v) 
+[   399-5]set3dOffsetU ...................................... = 3      u(8) 
+[   400-5]set3dOffsetV ...................................... = 2      u(8) 
+[   401-5]set3dOffsetD ...................................... = 1      u(8) 
+[   404-2]rawPointsMinus1 ................................... = 1787   ue(v) 
+[   404-2] Raw Patch => UV    0  265  S= 894    6  UVD1=   3    2    1 NumPcmPoints=1788 PatchInRawVideoFlag=0 
+[   404-2] patch 37 : 
+[   404-5] patchMode = 1 
+[   404-5] patchInformationData: AtghType = 1 patchMode = 1 
+[   404-5] rawPatchDataUnit 
+[   404-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   404-6]2dPosX ............................................ = 0      ue(v) 
+[   406-7]2dPosY ............................................ = 271    ue(v) 
+[   409-2]sizeXMinus1 ....................................... = 948    ue(v) 
+[   410-1]sizeYMinus1 ....................................... = 8      ue(v) 
+[   411-1]set3dOffsetU ...................................... = 3      u(8) 
+[   412-1]set3dOffsetV ...................................... = 2      u(8) 
+[   413-1]set3dOffsetD ...................................... = 2      u(8) 
+[   416-0]rawPointsMinus1 ................................... = 2844   ue(v) 
+[   416-0] Raw Patch => UV    0  271  S= 949    9  UVD1=   3    2    2 NumPcmPoints=2845 PatchInRawVideoFlag=0 
+[   416-0] patch 38 : 
+[   416-3] patchMode = 1 
+[   416-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   416-3] rawPatchDataUnit 
+[   416-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   416-4]2dPosX ............................................ = 0      ue(v) 
+[   418-5]2dPosY ............................................ = 280    ue(v) 
+[   421-0]sizeXMinus1 ....................................... = 927    ue(v) 
+[   421-7]sizeYMinus1 ....................................... = 9      ue(v) 
+[   422-7]set3dOffsetU ...................................... = 3      u(8) 
+[   423-7]set3dOffsetV ...................................... = 3      u(8) 
+[   424-7]set3dOffsetD ...................................... = 0      u(8) 
+[   427-6]rawPointsMinus1 ................................... = 3090   ue(v) 
+[   427-6] Raw Patch => UV    0  280  S= 928   10  UVD1=   3    3    0 NumPcmPoints=3091 PatchInRawVideoFlag=0 
+[   427-6] patch 39 : 
+[   428-1] patchMode = 1 
+[   428-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   428-1] rawPatchDataUnit 
+[   428-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   428-2]2dPosX ............................................ = 0      ue(v) 
+[   430-3]2dPosY ............................................ = 290    ue(v) 
+[   433-0]sizeXMinus1 ....................................... = 1023   ue(v) 
+[   433-7]sizeYMinus1 ....................................... = 10     ue(v) 
+[   434-7]set3dOffsetU ...................................... = 3      u(8) 
+[   435-7]set3dOffsetV ...................................... = 3      u(8) 
+[   436-7]set3dOffsetD ...................................... = 1      u(8) 
+[   439-6]rawPointsMinus1 ................................... = 3752   ue(v) 
+[   439-6] Raw Patch => UV    0  290  S=1024   11  UVD1=   3    3    1 NumPcmPoints=3753 PatchInRawVideoFlag=0 
+[   439-6] patch 40 : 
+[   440-1] patchMode = 1 
+[   440-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   440-1] rawPatchDataUnit 
+[   440-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   440-2]2dPosX ............................................ = 0      ue(v) 
+[   442-3]2dPosY ............................................ = 301    ue(v) 
+[   444-6]sizeXMinus1 ....................................... = 773    ue(v) 
+[   445-3]sizeYMinus1 ....................................... = 3      ue(v) 
+[   446-3]set3dOffsetU ...................................... = 3      u(8) 
+[   447-3]set3dOffsetV ...................................... = 3      u(8) 
+[   448-3]set3dOffsetD ...................................... = 2      u(8) 
+[   451-0]rawPointsMinus1 ................................... = 1031   ue(v) 
+[   451-0] Raw Patch => UV    0  301  S= 774    4  UVD1=   3    3    2 NumPcmPoints=1032 PatchInRawVideoFlag=0 
+[   451-0] patch 41 : 
+[   451-3] patchMode = 1 
+[   451-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   451-3] rawPatchDataUnit 
+[   451-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   453-6]2dPosX ............................................ = 728    ue(v) 
+[   453-7]2dPosY ............................................ = 0      ue(v) 
+[   455-0]sizeXMinus1 ....................................... = 20     ue(v) 
+[   455-1]sizeYMinus1 ....................................... = 0      ue(v) 
+[   456-1]set3dOffsetU ...................................... = 4      u(8) 
+[   457-1]set3dOffsetV ...................................... = 0      u(8) 
+[   458-1]set3dOffsetD ...................................... = 0      u(8) 
+[   458-6]rawPointsMinus1 ................................... = 6      ue(v) 
+[   458-6] Raw Patch => UV  728    0  S=  21    1  UVD1=   4    0    0 NumPcmPoints=7 PatchInRawVideoFlag=0 
+[   458-6] patch 42 : 
+[   459-1] patchMode = 1 
+[   459-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   459-1] rawPatchDataUnit 
+[   459-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   459-2]2dPosX ............................................ = 0      ue(v) 
+[   461-3]2dPosY ............................................ = 305    ue(v) 
+[   463-6]sizeXMinus1 ....................................... = 953    ue(v) 
+[   464-5]sizeYMinus1 ....................................... = 10     ue(v) 
+[   465-5]set3dOffsetU ...................................... = 4      u(8) 
+[   466-5]set3dOffsetV ...................................... = 0      u(8) 
+[   467-5]set3dOffsetD ...................................... = 1      u(8) 
+[   470-4]rawPointsMinus1 ................................... = 3494   ue(v) 
+[   470-4] Raw Patch => UV    0  305  S= 954   11  UVD1=   4    0    1 NumPcmPoints=3495 PatchInRawVideoFlag=0 
+[   470-4] patch 43 : 
+[   470-7] patchMode = 1 
+[   470-7] patchInformationData: AtghType = 1 patchMode = 1 
+[   470-7] rawPatchDataUnit 
+[   470-7]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   471-0]2dPosX ............................................ = 0      ue(v) 
+[   473-1]2dPosY ............................................ = 316    ue(v) 
+[   475-4]sizeXMinus1 ....................................... = 854    ue(v) 
+[   475-7]sizeYMinus1 ....................................... = 1      ue(v) 
+[   476-7]set3dOffsetU ...................................... = 4      u(8) 
+[   477-7]set3dOffsetV ...................................... = 0      u(8) 
+[   478-7]set3dOffsetD ...................................... = 2      u(8) 
+[   481-2]rawPointsMinus1 ................................... = 569    ue(v) 
+[   481-2] Raw Patch => UV    0  316  S= 855    2  UVD1=   4    0    2 NumPcmPoints=570 PatchInRawVideoFlag=0 
+[   481-2] patch 44 : 
+[   481-5] patchMode = 1 
+[   481-5] patchInformationData: AtghType = 1 patchMode = 1 
+[   481-5] rawPatchDataUnit 
+[   481-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   481-6]2dPosX ............................................ = 0      ue(v) 
+[   483-7]2dPosY ............................................ = 318    ue(v) 
+[   486-2]sizeXMinus1 ....................................... = 728    ue(v) 
+[   486-5]sizeYMinus1 ....................................... = 1      ue(v) 
+[   487-5]set3dOffsetU ...................................... = 4      u(8) 
+[   488-5]set3dOffsetV ...................................... = 1      u(8) 
+[   489-5]set3dOffsetD ...................................... = 0      u(8) 
+[   491-6]rawPointsMinus1 ................................... = 485    ue(v) 
+[   491-6] Raw Patch => UV    0  318  S= 729    2  UVD1=   4    1    0 NumPcmPoints=486 PatchInRawVideoFlag=0 
+[   491-6] patch 45 : 
+[   492-1] patchMode = 1 
+[   492-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   492-1] rawPatchDataUnit 
+[   492-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   492-2]2dPosX ............................................ = 0      ue(v) 
+[   494-3]2dPosY ............................................ = 320    ue(v) 
+[   496-6]sizeXMinus1 ....................................... = 989    ue(v) 
+[   497-1]sizeYMinus1 ....................................... = 2      ue(v) 
+[   498-1]set3dOffsetU ...................................... = 4      u(8) 
+[   499-1]set3dOffsetV ...................................... = 1      u(8) 
+[   500-1]set3dOffsetD ...................................... = 1      u(8) 
+[   502-4]rawPointsMinus1 ................................... = 989    ue(v) 
+[   502-4] Raw Patch => UV    0  320  S= 990    3  UVD1=   4    1    1 NumPcmPoints=990 PatchInRawVideoFlag=0 
+[   502-4] patch 46 : 
+[   502-7] patchMode = 1 
+[   502-7] patchInformationData: AtghType = 1 patchMode = 1 
+[   502-7] rawPatchDataUnit 
+[   502-7]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   503-0]2dPosX ............................................ = 0      ue(v) 
+[   505-1]2dPosY ............................................ = 323    ue(v) 
+[   507-4]sizeXMinus1 ....................................... = 952    ue(v) 
+[   508-3]sizeYMinus1 ....................................... = 13     ue(v) 
+[   509-3]set3dOffsetU ...................................... = 4      u(8) 
+[   510-3]set3dOffsetV ...................................... = 1      u(8) 
+[   511-3]set3dOffsetD ...................................... = 2      u(8) 
+[   514-4]rawPointsMinus1 ................................... = 4442   ue(v) 
+[   514-4] Raw Patch => UV    0  323  S= 953   14  UVD1=   4    1    2 NumPcmPoints=4443 PatchInRawVideoFlag=0 
+[   514-4] patch 47 : 
+[   514-7] patchMode = 1 
+[   514-7] patchInformationData: AtghType = 1 patchMode = 1 
+[   514-7] rawPatchDataUnit 
+[   514-7]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   515-0]2dPosX ............................................ = 0      ue(v) 
+[   517-1]2dPosY ............................................ = 337    ue(v) 
+[   519-4]sizeXMinus1 ....................................... = 860    ue(v) 
+[   520-1]sizeYMinus1 ....................................... = 3      ue(v) 
+[   521-1]set3dOffsetU ...................................... = 4      u(8) 
+[   522-1]set3dOffsetV ...................................... = 2      u(8) 
+[   523-1]set3dOffsetD ...................................... = 0      u(8) 
+[   525-6]rawPointsMinus1 ................................... = 1146   ue(v) 
+[   525-6] Raw Patch => UV    0  337  S= 861    4  UVD1=   4    2    0 NumPcmPoints=1147 PatchInRawVideoFlag=0 
+[   525-6] patch 48 : 
+[   526-1] patchMode = 1 
+[   526-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   526-1] rawPatchDataUnit 
+[   526-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   526-2]2dPosX ............................................ = 0      ue(v) 
+[   528-3]2dPosY ............................................ = 341    ue(v) 
+[   530-6]sizeXMinus1 ....................................... = 977    ue(v) 
+[   531-3]sizeYMinus1 ....................................... = 3      ue(v) 
+[   532-3]set3dOffsetU ...................................... = 4      u(8) 
+[   533-3]set3dOffsetV ...................................... = 2      u(8) 
+[   534-3]set3dOffsetD ...................................... = 1      u(8) 
+[   537-0]rawPointsMinus1 ................................... = 1302   ue(v) 
+[   537-0] Raw Patch => UV    0  341  S= 978    4  UVD1=   4    2    1 NumPcmPoints=1303 PatchInRawVideoFlag=0 
+[   537-0] patch 49 : 
+[   537-3] patchMode = 1 
+[   537-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   537-3] rawPatchDataUnit 
+[   537-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   537-4]2dPosX ............................................ = 0      ue(v) 
+[   539-5]2dPosY ............................................ = 345    ue(v) 
+[   542-0]sizeXMinus1 ....................................... = 989    ue(v) 
+[   542-7]sizeYMinus1 ....................................... = 9      ue(v) 
+[   543-7]set3dOffsetU ...................................... = 4      u(8) 
+[   544-7]set3dOffsetV ...................................... = 2      u(8) 
+[   545-7]set3dOffsetD ...................................... = 2      u(8) 
+[   548-6]rawPointsMinus1 ................................... = 3297   ue(v) 
+[   548-6] Raw Patch => UV    0  345  S= 990   10  UVD1=   4    2    2 NumPcmPoints=3298 PatchInRawVideoFlag=0 
+[   548-6] patch 50 : 
+[   549-1] patchMode = 1 
+[   549-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   549-1] rawPatchDataUnit 
+[   549-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   549-2]2dPosX ............................................ = 0      ue(v) 
+[   551-3]2dPosY ............................................ = 355    ue(v) 
+[   554-0]sizeXMinus1 ....................................... = 1023   ue(v) 
+[   554-7]sizeYMinus1 ....................................... = 9      ue(v) 
+[   555-7]set3dOffsetU ...................................... = 4      u(8) 
+[   556-7]set3dOffsetV ...................................... = 3      u(8) 
+[   557-7]set3dOffsetD ...................................... = 0      u(8) 
+[   560-6]rawPointsMinus1 ................................... = 3410   ue(v) 
+[   560-6] Raw Patch => UV    0  355  S=1024   10  UVD1=   4    3    0 NumPcmPoints=3411 PatchInRawVideoFlag=0 
+[   560-6] patch 51 : 
+[   561-1] patchMode = 1 
+[   561-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   561-1] rawPatchDataUnit 
+[   561-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   561-2]2dPosX ............................................ = 0      ue(v) 
+[   563-3]2dPosY ............................................ = 365    ue(v) 
+[   565-6]sizeXMinus1 ....................................... = 918    ue(v) 
+[   566-5]sizeYMinus1 ....................................... = 8      ue(v) 
+[   567-5]set3dOffsetU ...................................... = 4      u(8) 
+[   568-5]set3dOffsetV ...................................... = 3      u(8) 
+[   569-5]set3dOffsetD ...................................... = 1      u(8) 
+[   572-4]rawPointsMinus1 ................................... = 2755   ue(v) 
+[   572-4] Raw Patch => UV    0  365  S= 919    9  UVD1=   4    3    1 NumPcmPoints=2756 PatchInRawVideoFlag=0 
+[   572-4] patch 52 : 
+[   572-7] patchMode = 1 
+[   572-7] patchInformationData: AtghType = 1 patchMode = 1 
+[   572-7] rawPatchDataUnit 
+[   572-7]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   573-0]2dPosX ............................................ = 0      ue(v) 
+[   575-1]2dPosY ............................................ = 374    ue(v) 
+[   577-4]sizeXMinus1 ....................................... = 838    ue(v) 
+[   578-1]sizeYMinus1 ....................................... = 4      ue(v) 
+[   579-1]set3dOffsetU ...................................... = 4      u(8) 
+[   580-1]set3dOffsetV ...................................... = 3      u(8) 
+[   581-1]set3dOffsetD ...................................... = 2      u(8) 
+[   583-6]rawPointsMinus1 ................................... = 1396   ue(v) 
+[   583-6] Raw Patch => UV    0  374  S= 839    5  UVD1=   4    3    2 NumPcmPoints=1397 PatchInRawVideoFlag=0 
+[   583-6] patch 53 : 
+[   584-1] patchMode = 1 
+[   584-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   584-1] rawPatchDataUnit 
+[   584-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   586-4]2dPosX ............................................ = 749    ue(v) 
+[   586-5]2dPosY ............................................ = 0      ue(v) 
+[   588-4]sizeXMinus1 ....................................... = 158    ue(v) 
+[   588-5]sizeYMinus1 ....................................... = 0      ue(v) 
+[   589-5]set3dOffsetU ...................................... = 5      u(8) 
+[   590-5]set3dOffsetV ...................................... = 0      u(8) 
+[   591-5]set3dOffsetD ...................................... = 0      u(8) 
+[   593-0]rawPointsMinus1 ................................... = 52     ue(v) 
+[   593-0] Raw Patch => UV  749    0  S= 159    1  UVD1=   5    0    0 NumPcmPoints=53 PatchInRawVideoFlag=0 
+[   593-0] patch 54 : 
+[   593-3] patchMode = 1 
+[   593-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   593-3] rawPatchDataUnit 
+[   593-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   593-4]2dPosX ............................................ = 0      ue(v) 
+[   595-5]2dPosY ............................................ = 379    ue(v) 
+[   598-0]sizeXMinus1 ....................................... = 970    ue(v) 
+[   598-7]sizeYMinus1 ....................................... = 10     ue(v) 
+[   599-7]set3dOffsetU ...................................... = 5      u(8) 
+[   600-7]set3dOffsetV ...................................... = 0      u(8) 
+[   601-7]set3dOffsetD ...................................... = 1      u(8) 
+[   604-6]rawPointsMinus1 ................................... = 3558   ue(v) 
+[   604-6] Raw Patch => UV    0  379  S= 971   11  UVD1=   5    0    1 NumPcmPoints=3559 PatchInRawVideoFlag=0 
+[   604-6] patch 55 : 
+[   605-1] patchMode = 1 
+[   605-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   605-1] rawPatchDataUnit 
+[   605-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   605-2]2dPosX ............................................ = 0      ue(v) 
+[   607-3]2dPosY ............................................ = 390    ue(v) 
+[   609-6]sizeXMinus1 ....................................... = 881    ue(v) 
+[   609-7]sizeYMinus1 ....................................... = 0      ue(v) 
+[   610-7]set3dOffsetU ...................................... = 5      u(8) 
+[   611-7]set3dOffsetV ...................................... = 0      u(8) 
+[   612-7]set3dOffsetD ...................................... = 2      u(8) 
+[   615-0]rawPointsMinus1 ................................... = 293    ue(v) 
+[   615-0] Raw Patch => UV    0  390  S= 882    1  UVD1=   5    0    2 NumPcmPoints=294 PatchInRawVideoFlag=0 
+[   615-0] patch 56 : 
+[   615-3] patchMode = 1 
+[   615-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   615-3] rawPatchDataUnit 
+[   615-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   615-4]2dPosX ............................................ = 0      ue(v) 
+[   617-5]2dPosY ............................................ = 391    ue(v) 
+[   620-0]sizeXMinus1 ....................................... = 808    ue(v) 
+[   620-3]sizeYMinus1 ....................................... = 1      ue(v) 
+[   621-3]set3dOffsetU ...................................... = 5      u(8) 
+[   622-3]set3dOffsetV ...................................... = 1      u(8) 
+[   623-3]set3dOffsetD ...................................... = 0      u(8) 
+[   625-6]rawPointsMinus1 ................................... = 538    ue(v) 
+[   625-6] Raw Patch => UV    0  391  S= 809    2  UVD1=   5    1    0 NumPcmPoints=539 PatchInRawVideoFlag=0 
+[   625-6] patch 57 : 
+[   626-1] patchMode = 1 
+[   626-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   626-1] rawPatchDataUnit 
+[   626-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   626-2]2dPosX ............................................ = 0      ue(v) 
+[   628-3]2dPosY ............................................ = 393    ue(v) 
+[   630-6]sizeXMinus1 ....................................... = 950    ue(v) 
+[   631-3]sizeYMinus1 ....................................... = 4      ue(v) 
+[   632-3]set3dOffsetU ...................................... = 5      u(8) 
+[   633-3]set3dOffsetV ...................................... = 1      u(8) 
+[   634-3]set3dOffsetD ...................................... = 1      u(8) 
+[   637-0]rawPointsMinus1 ................................... = 1584   ue(v) 
+[   637-0] Raw Patch => UV    0  393  S= 951    5  UVD1=   5    1    1 NumPcmPoints=1585 PatchInRawVideoFlag=0 
+[   637-0] patch 58 : 
+[   637-3] patchMode = 1 
+[   637-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   637-3] rawPatchDataUnit 
+[   637-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   637-4]2dPosX ............................................ = 0      ue(v) 
+[   639-5]2dPosY ............................................ = 398    ue(v) 
+[   642-0]sizeXMinus1 ....................................... = 985    ue(v) 
+[   642-7]sizeYMinus1 ....................................... = 13     ue(v) 
+[   643-7]set3dOffsetU ...................................... = 5      u(8) 
+[   644-7]set3dOffsetV ...................................... = 1      u(8) 
+[   645-7]set3dOffsetD ...................................... = 2      u(8) 
+[   649-0]rawPointsMinus1 ................................... = 4600   ue(v) 
+[   649-0] Raw Patch => UV    0  398  S= 986   14  UVD1=   5    1    2 NumPcmPoints=4601 PatchInRawVideoFlag=0 
+[   649-0] patch 59 : 
+[   649-3] patchMode = 1 
+[   649-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   649-3] rawPatchDataUnit 
+[   649-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   649-4]2dPosX ............................................ = 0      ue(v) 
+[   651-5]2dPosY ............................................ = 412    ue(v) 
+[   654-0]sizeXMinus1 ....................................... = 941    ue(v) 
+[   654-3]sizeYMinus1 ....................................... = 2      ue(v) 
+[   655-3]set3dOffsetU ...................................... = 5      u(8) 
+[   656-3]set3dOffsetV ...................................... = 2      u(8) 
+[   657-3]set3dOffsetD ...................................... = 0      u(8) 
+[   659-6]rawPointsMinus1 ................................... = 941    ue(v) 
+[   659-6] Raw Patch => UV    0  412  S= 942    3  UVD1=   5    2    0 NumPcmPoints=942 PatchInRawVideoFlag=0 
+[   659-6] patch 60 : 
+[   660-1] patchMode = 1 
+[   660-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   660-1] rawPatchDataUnit 
+[   660-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   660-2]2dPosX ............................................ = 0      ue(v) 
+[   662-3]2dPosY ............................................ = 415    ue(v) 
+[   664-6]sizeXMinus1 ....................................... = 867    ue(v) 
+[   665-3]sizeYMinus1 ....................................... = 5      ue(v) 
+[   666-3]set3dOffsetU ...................................... = 5      u(8) 
+[   667-3]set3dOffsetV ...................................... = 2      u(8) 
+[   668-3]set3dOffsetD ...................................... = 1      u(8) 
+[   671-0]rawPointsMinus1 ................................... = 1734   ue(v) 
+[   671-0] Raw Patch => UV    0  415  S= 868    6  UVD1=   5    2    1 NumPcmPoints=1735 PatchInRawVideoFlag=0 
+[   671-0] patch 61 : 
+[   671-3] patchMode = 1 
+[   671-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   671-3] rawPatchDataUnit 
+[   671-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   671-4]2dPosX ............................................ = 0      ue(v) 
+[   673-5]2dPosY ............................................ = 421    ue(v) 
+[   676-0]sizeXMinus1 ....................................... = 1016   ue(v) 
+[   676-7]sizeYMinus1 ....................................... = 8      ue(v) 
+[   677-7]set3dOffsetU ...................................... = 5      u(8) 
+[   678-7]set3dOffsetV ...................................... = 2      u(8) 
+[   679-7]set3dOffsetD ...................................... = 2      u(8) 
+[   682-6]rawPointsMinus1 ................................... = 3048   ue(v) 
+[   682-6] Raw Patch => UV    0  421  S=1017    9  UVD1=   5    2    2 NumPcmPoints=3049 PatchInRawVideoFlag=0 
+[   682-6] patch 62 : 
+[   683-1] patchMode = 1 
+[   683-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   683-1] rawPatchDataUnit 
+[   683-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   683-2]2dPosX ............................................ = 0      ue(v) 
+[   685-3]2dPosY ............................................ = 430    ue(v) 
+[   687-6]sizeXMinus1 ....................................... = 1014   ue(v) 
+[   688-5]sizeYMinus1 ....................................... = 8      ue(v) 
+[   689-5]set3dOffsetU ...................................... = 5      u(8) 
+[   690-5]set3dOffsetV ...................................... = 3      u(8) 
+[   691-5]set3dOffsetD ...................................... = 0      u(8) 
+[   694-4]rawPointsMinus1 ................................... = 3043   ue(v) 
+[   694-4] Raw Patch => UV    0  430  S=1015    9  UVD1=   5    3    0 NumPcmPoints=3044 PatchInRawVideoFlag=0 
+[   694-4] patch 63 : 
+[   694-7] patchMode = 1 
+[   694-7] patchInformationData: AtghType = 1 patchMode = 1 
+[   694-7] rawPatchDataUnit 
+[   694-7]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   695-0]2dPosX ............................................ = 0      ue(v) 
+[   697-1]2dPosY ............................................ = 439    ue(v) 
+[   699-4]sizeXMinus1 ....................................... = 984    ue(v) 
+[   700-3]sizeYMinus1 ....................................... = 12     ue(v) 
+[   701-3]set3dOffsetU ...................................... = 5      u(8) 
+[   702-3]set3dOffsetV ...................................... = 3      u(8) 
+[   703-3]set3dOffsetD ...................................... = 1      u(8) 
+[   706-4]rawPointsMinus1 ................................... = 4266   ue(v) 
+[   706-4] Raw Patch => UV    0  439  S= 985   13  UVD1=   5    3    1 NumPcmPoints=4267 PatchInRawVideoFlag=0 
+[   706-4] patch 64 : 
+[   706-7] patchMode = 1 
+[   706-7] patchInformationData: AtghType = 1 patchMode = 1 
+[   706-7] rawPatchDataUnit 
+[   706-7]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   707-0]2dPosX ............................................ = 0      ue(v) 
+[   709-1]2dPosY ............................................ = 452    ue(v) 
+[   711-4]sizeXMinus1 ....................................... = 992    ue(v) 
+[   711-7]sizeYMinus1 ....................................... = 2      ue(v) 
+[   712-7]set3dOffsetU ...................................... = 5      u(8) 
+[   713-7]set3dOffsetV ...................................... = 3      u(8) 
+[   714-7]set3dOffsetD ...................................... = 2      u(8) 
+[   717-2]rawPointsMinus1 ................................... = 992    ue(v) 
+[   717-2] Raw Patch => UV    0  452  S= 993    3  UVD1=   5    3    2 NumPcmPoints=993 PatchInRawVideoFlag=0 
+[   717-2] patch 65 : 
+[   717-5] patchMode = 1 
+[   717-5] patchInformationData: AtghType = 1 patchMode = 1 
+[   717-5] rawPatchDataUnit 
+[   717-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   717-6]2dPosX ............................................ = 0      ue(v) 
+[   719-7]2dPosY ............................................ = 455    ue(v) 
+[   722-2]sizeXMinus1 ....................................... = 779    ue(v) 
+[   722-7]sizeYMinus1 ....................................... = 3      ue(v) 
+[   723-7]set3dOffsetU ...................................... = 6      u(8) 
+[   724-7]set3dOffsetV ...................................... = 0      u(8) 
+[   725-7]set3dOffsetD ...................................... = 0      u(8) 
+[   728-4]rawPointsMinus1 ................................... = 1038   ue(v) 
+[   728-4] Raw Patch => UV    0  455  S= 780    4  UVD1=   6    0    0 NumPcmPoints=1039 PatchInRawVideoFlag=0 
+[   728-4] patch 66 : 
+[   728-7] patchMode = 1 
+[   728-7] patchInformationData: AtghType = 1 patchMode = 1 
+[   728-7] rawPatchDataUnit 
+[   728-7]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   729-0]2dPosX ............................................ = 0      ue(v) 
+[   731-1]2dPosY ............................................ = 459    ue(v) 
+[   733-4]sizeXMinus1 ....................................... = 948    ue(v) 
+[   734-3]sizeYMinus1 ....................................... = 9      ue(v) 
+[   735-3]set3dOffsetU ...................................... = 6      u(8) 
+[   736-3]set3dOffsetV ...................................... = 0      u(8) 
+[   737-3]set3dOffsetD ...................................... = 1      u(8) 
+[   740-2]rawPointsMinus1 ................................... = 3160   ue(v) 
+[   740-2] Raw Patch => UV    0  459  S= 949   10  UVD1=   6    0    1 NumPcmPoints=3161 PatchInRawVideoFlag=0 
+[   740-2] patch 67 : 
+[   740-5] patchMode = 1 
+[   740-5] patchInformationData: AtghType = 1 patchMode = 1 
+[   740-5] rawPatchDataUnit 
+[   740-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   740-6]2dPosX ............................................ = 0      ue(v) 
+[   742-7]2dPosY ............................................ = 469    ue(v) 
+[   745-2]sizeXMinus1 ....................................... = 845    ue(v) 
+[   745-5]sizeYMinus1 ....................................... = 1      ue(v) 
+[   746-5]set3dOffsetU ...................................... = 6      u(8) 
+[   747-5]set3dOffsetV ...................................... = 0      u(8) 
+[   748-5]set3dOffsetD ...................................... = 2      u(8) 
+[   751-0]rawPointsMinus1 ................................... = 563    ue(v) 
+[   751-0] Raw Patch => UV    0  469  S= 846    2  UVD1=   6    0    2 NumPcmPoints=564 PatchInRawVideoFlag=0 
+[   751-0] patch 68 : 
+[   751-3] patchMode = 1 
+[   751-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   751-3] rawPatchDataUnit 
+[   751-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   751-4]2dPosX ............................................ = 0      ue(v) 
+[   753-5]2dPosY ............................................ = 471    ue(v) 
+[   756-0]sizeXMinus1 ....................................... = 807    ue(v) 
+[   756-3]sizeYMinus1 ....................................... = 2      ue(v) 
+[   757-3]set3dOffsetU ...................................... = 6      u(8) 
+[   758-3]set3dOffsetV ...................................... = 1      u(8) 
+[   759-3]set3dOffsetD ...................................... = 0      u(8) 
+[   761-6]rawPointsMinus1 ................................... = 807    ue(v) 
+[   761-6] Raw Patch => UV    0  471  S= 808    3  UVD1=   6    1    0 NumPcmPoints=808 PatchInRawVideoFlag=0 
+[   761-6] patch 69 : 
+[   762-1] patchMode = 1 
+[   762-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   762-1] rawPatchDataUnit 
+[   762-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   762-2]2dPosX ............................................ = 0      ue(v) 
+[   764-3]2dPosY ............................................ = 474    ue(v) 
+[   766-6]sizeXMinus1 ....................................... = 914    ue(v) 
+[   767-3]sizeYMinus1 ....................................... = 4      ue(v) 
+[   768-3]set3dOffsetU ...................................... = 6      u(8) 
+[   769-3]set3dOffsetV ...................................... = 1      u(8) 
+[   770-3]set3dOffsetD ...................................... = 1      u(8) 
+[   773-0]rawPointsMinus1 ................................... = 1523   ue(v) 
+[   773-0] Raw Patch => UV    0  474  S= 915    5  UVD1=   6    1    1 NumPcmPoints=1524 PatchInRawVideoFlag=0 
+[   773-0] patch 70 : 
+[   773-3] patchMode = 1 
+[   773-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   773-3] rawPatchDataUnit 
+[   773-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   773-4]2dPosX ............................................ = 0      ue(v) 
+[   775-5]2dPosY ............................................ = 479    ue(v) 
+[   778-0]sizeXMinus1 ....................................... = 958    ue(v) 
+[   778-7]sizeYMinus1 ....................................... = 10     ue(v) 
+[   779-7]set3dOffsetU ...................................... = 6      u(8) 
+[   780-7]set3dOffsetV ...................................... = 1      u(8) 
+[   781-7]set3dOffsetD ...................................... = 2      u(8) 
+[   784-6]rawPointsMinus1 ................................... = 3515   ue(v) 
+[   784-6] Raw Patch => UV    0  479  S= 959   11  UVD1=   6    1    2 NumPcmPoints=3516 PatchInRawVideoFlag=0 
+[   784-6] patch 71 : 
+[   785-1] patchMode = 1 
+[   785-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   785-1] rawPatchDataUnit 
+[   785-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   785-2]2dPosX ............................................ = 0      ue(v) 
+[   787-3]2dPosY ............................................ = 490    ue(v) 
+[   789-6]sizeXMinus1 ....................................... = 955    ue(v) 
+[   790-1]sizeYMinus1 ....................................... = 2      ue(v) 
+[   791-1]set3dOffsetU ...................................... = 6      u(8) 
+[   792-1]set3dOffsetV ...................................... = 2      u(8) 
+[   793-1]set3dOffsetD ...................................... = 0      u(8) 
+[   795-4]rawPointsMinus1 ................................... = 955    ue(v) 
+[   795-4] Raw Patch => UV    0  490  S= 956    3  UVD1=   6    2    0 NumPcmPoints=956 PatchInRawVideoFlag=0 
+[   795-4] patch 72 : 
+[   795-7] patchMode = 1 
+[   795-7] patchInformationData: AtghType = 1 patchMode = 1 
+[   795-7] rawPatchDataUnit 
+[   795-7]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   796-0]2dPosX ............................................ = 0      ue(v) 
+[   798-1]2dPosY ............................................ = 493    ue(v) 
+[   800-4]sizeXMinus1 ....................................... = 976    ue(v) 
+[   801-3]sizeYMinus1 ....................................... = 10     ue(v) 
+[   802-3]set3dOffsetU ...................................... = 6      u(8) 
+[   803-3]set3dOffsetV ...................................... = 2      u(8) 
+[   804-3]set3dOffsetD ...................................... = 1      u(8) 
+[   807-2]rawPointsMinus1 ................................... = 3581   ue(v) 
+[   807-2] Raw Patch => UV    0  493  S= 977   11  UVD1=   6    2    1 NumPcmPoints=3582 PatchInRawVideoFlag=0 
+[   807-2] patch 73 : 
+[   807-5] patchMode = 1 
+[   807-5] patchInformationData: AtghType = 1 patchMode = 1 
+[   807-5] rawPatchDataUnit 
+[   807-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   807-6]2dPosX ............................................ = 0      ue(v) 
+[   809-7]2dPosY ............................................ = 504    ue(v) 
+[   812-2]sizeXMinus1 ....................................... = 656    ue(v) 
+[   812-3]sizeYMinus1 ....................................... = 0      ue(v) 
+[   813-3]set3dOffsetU ...................................... = 6      u(8) 
+[   814-3]set3dOffsetV ...................................... = 2      u(8) 
+[   815-3]set3dOffsetD ...................................... = 2      u(8) 
+[   817-2]rawPointsMinus1 ................................... = 218    ue(v) 
+[   817-2] Raw Patch => UV    0  504  S= 657    1  UVD1=   6    2    2 NumPcmPoints=219 PatchInRawVideoFlag=0 
+[   817-2] patch 74 : 
+[   817-5] patchMode = 1 
+[   817-5] patchInformationData: AtghType = 1 patchMode = 1 
+[   817-5] rawPatchDataUnit 
+[   817-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   817-6]2dPosX ............................................ = 0      ue(v) 
+[   819-7]2dPosY ............................................ = 505    ue(v) 
+[   822-2]sizeXMinus1 ....................................... = 991    ue(v) 
+[   823-1]sizeYMinus1 ....................................... = 11     ue(v) 
+[   824-1]set3dOffsetU ...................................... = 6      u(8) 
+[   825-1]set3dOffsetV ...................................... = 3      u(8) 
+[   826-1]set3dOffsetD ...................................... = 0      u(8) 
+[   829-0]rawPointsMinus1 ................................... = 3964   ue(v) 
+[   829-0] Raw Patch => UV    0  505  S= 992   12  UVD1=   6    3    0 NumPcmPoints=3965 PatchInRawVideoFlag=0 
+[   829-0] patch 75 : 
+[   829-3] patchMode = 1 
+[   829-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   829-3] rawPatchDataUnit 
+[   829-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   829-4]2dPosX ............................................ = 0      ue(v) 
+[   831-7]2dPosY ............................................ = 517    ue(v) 
+[   834-2]sizeXMinus1 ....................................... = 964    ue(v) 
+[   835-1]sizeYMinus1 ....................................... = 13     ue(v) 
+[   836-1]set3dOffsetU ...................................... = 6      u(8) 
+[   837-1]set3dOffsetV ...................................... = 3      u(8) 
+[   838-1]set3dOffsetD ...................................... = 1      u(8) 
+[   841-2]rawPointsMinus1 ................................... = 4501   ue(v) 
+[   841-2] Raw Patch => UV    0  517  S= 965   14  UVD1=   6    3    1 NumPcmPoints=4502 PatchInRawVideoFlag=0 
+[   841-2] patch 76 : 
+[   841-5] patchMode = 1 
+[   841-5] patchInformationData: AtghType = 1 patchMode = 1 
+[   841-5] rawPatchDataUnit 
+[   841-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   844-0]2dPosX ............................................ = 908    ue(v) 
+[   844-1]2dPosY ............................................ = 0      ue(v) 
+[   845-4]sizeXMinus1 ....................................... = 62     ue(v) 
+[   845-5]sizeYMinus1 ....................................... = 0      ue(v) 
+[   846-5]set3dOffsetU ...................................... = 6      u(8) 
+[   847-5]set3dOffsetV ...................................... = 3      u(8) 
+[   848-5]set3dOffsetD ...................................... = 2      u(8) 
+[   849-6]rawPointsMinus1 ................................... = 20     ue(v) 
+[   849-6] Raw Patch => UV  908    0  S=  63    1  UVD1=   6    3    2 NumPcmPoints=21 PatchInRawVideoFlag=0 
+[   849-6] patch 77 : 
+[   850-1] patchMode = 1 
+[   850-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   850-1] rawPatchDataUnit 
+[   850-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   850-2]2dPosX ............................................ = 0      ue(v) 
+[   852-5]2dPosY ............................................ = 531    ue(v) 
+[   855-0]sizeXMinus1 ....................................... = 905    ue(v) 
+[   855-5]sizeYMinus1 ....................................... = 5      ue(v) 
+[   856-5]set3dOffsetU ...................................... = 7      u(8) 
+[   857-5]set3dOffsetV ...................................... = 0      u(8) 
+[   858-5]set3dOffsetD ...................................... = 1      u(8) 
+[   861-2]rawPointsMinus1 ................................... = 1810   ue(v) 
+[   861-2] Raw Patch => UV    0  531  S= 906    6  UVD1=   7    0    1 NumPcmPoints=1811 PatchInRawVideoFlag=0 
+[   861-2] patch 78 : 
+[   861-5] patchMode = 1 
+[   861-5] patchInformationData: AtghType = 1 patchMode = 1 
+[   861-5] rawPatchDataUnit 
+[   861-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   864-0]2dPosX ............................................ = 670    ue(v) 
+[   864-3]2dPosY ............................................ = 1      ue(v) 
+[   866-2]sizeXMinus1 ....................................... = 218    ue(v) 
+[   866-3]sizeYMinus1 ....................................... = 0      ue(v) 
+[   867-3]set3dOffsetU ...................................... = 7      u(8) 
+[   868-3]set3dOffsetV ...................................... = 0      u(8) 
+[   869-3]set3dOffsetD ...................................... = 2      u(8) 
+[   871-0]rawPointsMinus1 ................................... = 72     ue(v) 
+[   871-0] Raw Patch => UV  670    1  S= 219    1  UVD1=   7    0    2 NumPcmPoints=73 PatchInRawVideoFlag=0 
+[   871-0] patch 79 : 
+[   871-3] patchMode = 1 
+[   871-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   871-3] rawPatchDataUnit 
+[   871-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   871-4]2dPosX ............................................ = 0      ue(v) 
+[   873-7]2dPosY ............................................ = 537    ue(v) 
+[   876-2]sizeXMinus1 ....................................... = 707    ue(v) 
+[   876-5]sizeYMinus1 ....................................... = 1      ue(v) 
+[   877-5]set3dOffsetU ...................................... = 7      u(8) 
+[   878-5]set3dOffsetV ...................................... = 1      u(8) 
+[   879-5]set3dOffsetD ...................................... = 0      u(8) 
+[   881-6]rawPointsMinus1 ................................... = 471    ue(v) 
+[   881-6] Raw Patch => UV    0  537  S= 708    2  UVD1=   7    1    0 NumPcmPoints=472 PatchInRawVideoFlag=0 
+[   881-6] patch 80 : 
+[   882-1] patchMode = 1 
+[   882-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   882-1] rawPatchDataUnit 
+[   882-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   882-2]2dPosX ............................................ = 0      ue(v) 
+[   884-5]2dPosY ............................................ = 539    ue(v) 
+[   887-0]sizeXMinus1 ....................................... = 978    ue(v) 
+[   887-7]sizeYMinus1 ....................................... = 14     ue(v) 
+[   888-7]set3dOffsetU ...................................... = 7      u(8) 
+[   889-7]set3dOffsetV ...................................... = 1      u(8) 
+[   890-7]set3dOffsetD ...................................... = 1      u(8) 
+[   894-0]rawPointsMinus1 ................................... = 4893   ue(v) 
+[   894-0] Raw Patch => UV    0  539  S= 979   15  UVD1=   7    1    1 NumPcmPoints=4894 PatchInRawVideoFlag=0 
+[   894-0] patch 81 : 
+[   894-3] patchMode = 1 
+[   894-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   894-3] rawPatchDataUnit 
+[   894-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   894-4]2dPosX ............................................ = 0      ue(v) 
+[   896-7]2dPosY ............................................ = 554    ue(v) 
+[   899-2]sizeXMinus1 ....................................... = 1008   ue(v) 
+[   900-1]sizeYMinus1 ....................................... = 12     ue(v) 
+[   901-1]set3dOffsetU ...................................... = 7      u(8) 
+[   902-1]set3dOffsetV ...................................... = 1      u(8) 
+[   903-1]set3dOffsetD ...................................... = 2      u(8) 
+[   906-2]rawPointsMinus1 ................................... = 4369   ue(v) 
+[   906-2] Raw Patch => UV    0  554  S=1009   13  UVD1=   7    1    2 NumPcmPoints=4370 PatchInRawVideoFlag=0 
+[   906-2] patch 82 : 
+[   906-5] patchMode = 1 
+[   906-5] patchInformationData: AtghType = 1 patchMode = 1 
+[   906-5] rawPatchDataUnit 
+[   906-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   906-6]2dPosX ............................................ = 0      ue(v) 
+[   909-1]2dPosY ............................................ = 567    ue(v) 
+[   911-4]sizeXMinus1 ....................................... = 935    ue(v) 
+[   912-1]sizeYMinus1 ....................................... = 3      ue(v) 
+[   913-1]set3dOffsetU ...................................... = 7      u(8) 
+[   914-1]set3dOffsetV ...................................... = 2      u(8) 
+[   915-1]set3dOffsetD ...................................... = 0      u(8) 
+[   917-6]rawPointsMinus1 ................................... = 1247   ue(v) 
+[   917-6] Raw Patch => UV    0  567  S= 936    4  UVD1=   7    2    0 NumPcmPoints=1248 PatchInRawVideoFlag=0 
+[   917-6] patch 83 : 
+[   918-1] patchMode = 1 
+[   918-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   918-1] rawPatchDataUnit 
+[   918-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   918-2]2dPosX ............................................ = 0      ue(v) 
+[   920-5]2dPosY ............................................ = 571    ue(v) 
+[   923-0]sizeXMinus1 ....................................... = 971    ue(v) 
+[   923-7]sizeYMinus1 ....................................... = 13     ue(v) 
+[   924-7]set3dOffsetU ...................................... = 7      u(8) 
+[   925-7]set3dOffsetV ...................................... = 2      u(8) 
+[   926-7]set3dOffsetD ...................................... = 1      u(8) 
+[   930-0]rawPointsMinus1 ................................... = 4531   ue(v) 
+[   930-0] Raw Patch => UV    0  571  S= 972   14  UVD1=   7    2    1 NumPcmPoints=4532 PatchInRawVideoFlag=0 
+[   930-0] patch 84 : 
+[   930-3] patchMode = 1 
+[   930-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   930-3] rawPatchDataUnit 
+[   930-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   930-4]2dPosX ............................................ = 0      ue(v) 
+[   932-7]2dPosY ............................................ = 585    ue(v) 
+[   935-2]sizeXMinus1 ....................................... = 935    ue(v) 
+[   936-1]sizeYMinus1 ....................................... = 10     ue(v) 
+[   937-1]set3dOffsetU ...................................... = 7      u(8) 
+[   938-1]set3dOffsetV ...................................... = 2      u(8) 
+[   939-1]set3dOffsetD ...................................... = 2      u(8) 
+[   942-0]rawPointsMinus1 ................................... = 3429   ue(v) 
+[   942-0] Raw Patch => UV    0  585  S= 936   11  UVD1=   7    2    2 NumPcmPoints=3430 PatchInRawVideoFlag=0 
+[   942-0] patch 85 : 
+[   942-3] patchMode = 1 
+[   942-3] patchInformationData: AtghType = 1 patchMode = 1 
+[   942-3] rawPatchDataUnit 
+[   942-3]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   942-4]2dPosX ............................................ = 0      ue(v) 
+[   944-7]2dPosY ............................................ = 596    ue(v) 
+[   947-2]sizeXMinus1 ....................................... = 995    ue(v) 
+[   947-7]sizeYMinus1 ....................................... = 5      ue(v) 
+[   948-7]set3dOffsetU ...................................... = 7      u(8) 
+[   949-7]set3dOffsetV ...................................... = 3      u(8) 
+[   950-7]set3dOffsetD ...................................... = 0      u(8) 
+[   953-4]rawPointsMinus1 ................................... = 1990   ue(v) 
+[   953-4] Raw Patch => UV    0  596  S= 996    6  UVD1=   7    3    0 NumPcmPoints=1991 PatchInRawVideoFlag=0 
+[   953-4] patch 86 : 
+[   953-7] patchMode = 1 
+[   953-7] patchInformationData: AtghType = 1 patchMode = 1 
+[   953-7] rawPatchDataUnit 
+[   953-7]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   954-0]2dPosX ............................................ = 0      ue(v) 
+[   956-3]2dPosY ............................................ = 602    ue(v) 
+[   958-6]sizeXMinus1 ....................................... = 1021   ue(v) 
+[   959-5]sizeYMinus1 ....................................... = 14     ue(v) 
+[   960-5]set3dOffsetU ...................................... = 7      u(8) 
+[   961-5]set3dOffsetV ...................................... = 3      u(8) 
+[   962-5]set3dOffsetD ...................................... = 1      u(8) 
+[   965-6]rawPointsMinus1 ................................... = 5106   ue(v) 
+[   965-6] Raw Patch => UV    0  602  S=1022   15  UVD1=   7    3    1 NumPcmPoints=5107 PatchInRawVideoFlag=0 
+[   965-6] patch 87 : 
+[   966-1] patchMode = 1 
+[   966-1] patchInformationData: AtghType = 1 patchMode = 1 
+[   966-1] rawPatchDataUnit 
+[   966-1]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   966-2]2dPosX ............................................ = 0      ue(v) 
+[   968-5]2dPosY ............................................ = 617    ue(v) 
+[   971-0]sizeXMinus1 ....................................... = 831    ue(v) 
+[   971-5]sizeYMinus1 ....................................... = 4      ue(v) 
+[   972-5]set3dOffsetU ...................................... = 7      u(8) 
+[   973-5]set3dOffsetV ...................................... = 3      u(8) 
+[   974-5]set3dOffsetD ...................................... = 2      u(8) 
+[   977-2]rawPointsMinus1 ................................... = 1385   ue(v) 
+[   977-2] Raw Patch => UV    0  617  S= 832    5  UVD1=   7    3    2 NumPcmPoints=1386 PatchInRawVideoFlag=0 
+[   977-2] patch 88 : 
+[   977-5] patchMode = 1 
+[   977-5] patchInformationData: AtghType = 1 patchMode = 1 
+[   977-5] rawPatchDataUnit 
+[   977-5]  AtghRaw3dOffsetAxisBitCountMinus1 = 7 => bitcount = 8 
+[   977-6]2dPosX ............................................ = 0      ue(v) 
+[   980-1]2dPosY ............................................ = 622    ue(v) 
+[   982-4]sizeXMinus1 ....................................... = 602    ue(v) 
+[   982-5]sizeYMinus1 ....................................... = 0      ue(v) 
+[   983-5]set3dOffsetU ...................................... = 7      u(8) 
+[   984-5]set3dOffsetV ...................................... = 4      u(8) 
+[   985-5]set3dOffsetD ...................................... = 1      u(8) 
+[   987-4]rawPointsMinus1 ................................... = 200    ue(v) 
+[   987-4] Raw Patch => UV    0  622  S= 603    1  UVD1=   7    4    1 NumPcmPoints=201 PatchInRawVideoFlag=0 
+[   987-4] patch 89 : 
+[   988-3] patchMode = 14 
+[   988-3] patchInformationData: AtghType = 1 patchMode = 14 
+[   988-3] atdu.getPatchCount() including END = 90 
+[   988-3] rbspTrailingBits 
+[  1508-0] nalu[23]:NAL_IDR_N_LP, nalSizePrecision:2, naluSize:989, sizeBitstream written: 1508
+[  1508-0] v3cUnit: V3CUnitType = 1(V3C_AD) 
+[  1508-0] v3cUnit: size [0 ~ 1508] 
+[  1508-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_GVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 3      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-3]mapIndex .......................................... = 0      u(4) 
+[     2-4]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0]reserved12bits .................................... = 0      u(12) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 3 
+[     4-0] videoSubStream 
+[     4-0] Geometry 
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 550997 
+[551001-0] v3cUnit: V3CUnitType = 3(V3C_GVD) 
+[551001-0] v3cUnit: size [0 ~ 551001] 
+[551001-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 0      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 0      u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute opacity PARTITION: 0
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 119505 
+[119509-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[119509-0] v3cUnit: size [0 ~ 119509] 
+[119509-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 1      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 0      u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute sphericalHarmonic PARTITION: 0
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 271993 
+[271997-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[271997-0] v3cUnit: size [0 ~ 271997] 
+[271997-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 1      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 1      u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute sphericalHarmonic PARTITION: 1
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 164528 
+[164532-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[164532-0] v3cUnit: size [0 ~ 164532] 
+[164532-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 1      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 2      u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute sphericalHarmonic PARTITION: 2
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 164810 
+[164814-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[164814-0] v3cUnit: size [0 ~ 164814] 
+[164814-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 1      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 3      u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute sphericalHarmonic PARTITION: 3
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 180330 
+[180334-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[180334-0] v3cUnit: size [0 ~ 180334] 
+[180334-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 1      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 4      u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute sphericalHarmonic PARTITION: 4
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 170387 
+[170391-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[170391-0] v3cUnit: size [0 ~ 170391] 
+[170391-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 1      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 5      u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute sphericalHarmonic PARTITION: 5
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 180237 
+[180241-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[180241-0] v3cUnit: size [0 ~ 180241] 
+[180241-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 1      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 6      u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute sphericalHarmonic PARTITION: 6
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 3229 
+[  3233-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[  3233-0] v3cUnit: size [0 ~ 3233] 
+[  3233-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 1      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 7      u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute sphericalHarmonic PARTITION: 7
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 3831 
+[  3835-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[  3835-0] v3cUnit: size [0 ~ 3835] 
+[  3835-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 1      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 8      u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute sphericalHarmonic PARTITION: 8
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 7541 
+[  7545-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[  7545-0] v3cUnit: size [0 ~ 7545] 
+[  7545-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 1      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 9      u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute sphericalHarmonic PARTITION: 9
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 7858 
+[  7862-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[  7862-0] v3cUnit: size [0 ~ 7862] 
+[  7862-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 1      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 10     u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute sphericalHarmonic PARTITION: 10
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 8382 
+[  8386-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[  8386-0] v3cUnit: size [0 ~ 8386] 
+[  8386-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 1      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 11     u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute sphericalHarmonic PARTITION: 11
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 61045 
+[ 61049-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[ 61049-0] v3cUnit: size [0 ~ 61049] 
+[ 61049-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 1      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 12     u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute sphericalHarmonic PARTITION: 12
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 62550 
+[ 62554-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[ 62554-0] v3cUnit: size [0 ~ 62554] 
+[ 62554-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 1      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 13     u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute sphericalHarmonic PARTITION: 13
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 77016 
+[ 77020-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[ 77020-0] v3cUnit: size [0 ~ 77020] 
+[ 77020-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 1      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 14     u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute sphericalHarmonic PARTITION: 14
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 71606 
+[ 71610-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[ 71610-0] v3cUnit: size [0 ~ 71610] 
+[ 71610-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 1      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 15     u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute sphericalHarmonic PARTITION: 15
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 78623 
+[ 78627-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[ 78627-0] v3cUnit: size [0 ~ 78627] 
+[ 78627-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 2      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 0      u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute scale PARTITION: 0
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 316566 
+[316570-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[316570-0] v3cUnit: size [0 ~ 316570] 
+[316570-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 3      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 0      u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute rotation PARTITION: 0
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 436284 
+[436288-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[436288-0] v3cUnit: size [0 ~ 436288] 
+[436288-0] v3cUnit done
+[     0-0] PCCBitstream::(V3C_AVD)
+[     0-0] v3cUnit 
+[     0-0] v3cUnitHeader 
+[     0-5]v3cUnitType ....................................... = 4      u(5) 
+[     1-1]V3CParameterSetId ................................. = 0      u(4) 
+[     1-7]atlasID ........................................... = 0      u(6) 
+[     2-6]attributeIndex .................................... = 3      u(7) 
+[     3-3]attributeDimensionIndex ........................... = 1      u(5) 
+[     3-7]mapIndex .......................................... = 0      u(4) 
+[     4-0]auxiliaryVideoFlag ................................ = 0      u(1) 
+[     4-0] v3cUnitPayload 
+[     4-0] v3cUnitType = 4 
+[     4-0] videoSubStream 
+[     4-0] Attribute rotation PARTITION: 1
+[     4-0] Code: PCCVideoBitstream 
+[     4-0] Code: size = 160624 
+[160628-0] v3cUnit: V3CUnitType = 4(V3C_AVD) 
+[160628-0] v3cUnit: size [0 ~ 160628] 
+[160628-0] v3cUnit done

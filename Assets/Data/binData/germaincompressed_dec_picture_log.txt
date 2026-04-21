@@ -1,0 +1,84 @@
+Geometry
+MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = a074e5555aad3a2fe3e3c879eb8aad09,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 0, AttrTypeID = 2, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 9ff60f91fc8b48ecec74dd7170381de2,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 0, AttrTypeID = 5, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 5b50a99824b8a5452abf0fe514ffa6ae,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 1, AttrTypeID = 5, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 9c51dd8c7954b56cb8f7067ff0fd7ae5,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 2, AttrTypeID = 5, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 9160feec01d6c183e0b900212cf30301,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 3, AttrTypeID = 5, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 6b4c382d1e764578d3e6d8119c364ce6,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 4, AttrTypeID = 5, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 69b4a17c478c561714859cdfd4c3e325,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 5, AttrTypeID = 5, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 6b85f6422467a78565682e5843ac9bd7,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 6, AttrTypeID = 5, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 80167b6555026decf86b73459648c695,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 7, AttrTypeID = 5, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 1ead1c6e8c0adb96a59b300874837c7f,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 8, AttrTypeID = 5, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 3aaec7cc446755e2f5544129464d5eed,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 9, AttrTypeID = 5, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 608bbf048f57507cdbc204a6cf8af6e6,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 10, AttrTypeID = 5, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 7876ca7b3530de8483e84de70878ed66,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 11, AttrTypeID = 5, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 203de4fe7ffb233d35527ce1b3baa076,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 12, AttrTypeID = 5, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 87e79bb1da4bd4c8ca12940d2c9d9cf6,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 13, AttrTypeID = 5, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 880b7414484d791269cd2725e6a09992,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 14, AttrTypeID = 5, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = a5afd5dd4d5bde23c56e29c9b3438d77,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 15, AttrTypeID = 5, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 325f11faccf4327d1400f602edd94481,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 0, AttrTypeID = 6, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = faaeef8d854b9099c804b53a0de590c3,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 0, AttrTypeID = 7, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 198672c077ab58599da0f16820cd79f3,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
+Attribute
+AttrIdx = 0, AttrPartIdx = 1, AttrTypeID = 7, MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = ee6e638784b7a554f25b1a59da970a51,  MD5checksumChan1 = 1aca77e2188f52a62674fe8a873bdaba,  MD5checksumChan2 = 1aca77e2188f52a62674fe8a873bdaba 
+Width =  1024, Height = 640 
